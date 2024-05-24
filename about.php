@@ -236,7 +236,7 @@ individuals we connect them with.</p>
 </section>
 
 
-<section class="relative pd70">
+<!-- <section class="relative pd70">
     <div class="container">
          <h2 class="fs45 uppercaes text-center pb50">Explore global jobs</h2>
         
@@ -309,7 +309,7 @@ individuals we connect them with.</p>
 
          </div>
     </div>
-</section>
+</section> -->
 
 
 

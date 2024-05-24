@@ -11,8 +11,8 @@
   <img src="images/footer-logo.png" class="mobile-logo" width="150px" alt="Embarkk Logo">
  
        <ul class="d-flex mt50">
-            <li class="border-left pdleft10"><a href="" class="text-decoration text-black fs18"><img src="images/linkedin.png" class="w25"></a></li> 
-            <li class="border-left pdleft10"><a href="" class="text-decoration text-black fs18"><img src="images/instagram.png" class="w25"></a></li> 
+            <li class="border-left pdleft10 h40"><a href="" class="text-decoration text-black fs18"><img src="images/linkedin.png" class="w25"></a></li> 
+            <li class="border-left pdleft10 h40"><a href="" class="text-decoration text-black fs18"><img src="images/instagram.png" class="w25"></a></li> 
             <li class="pdleft10"><a href="" class="text-decoration text-black fs18"><img src="images/x.png" class="w25"></a></li>
         </ul>
 </div>

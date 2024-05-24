@@ -15,7 +15,7 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-light plr">
   <div class="container">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="index.php">
         <img src="images/logo.svg"  class="logo" alt="Embarkk Logo"/>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -28,8 +28,10 @@
             Company
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">About Us</a></li>
-            <li><a class="dropdown-item" href="#">Why Us</a></li>
+            <li><a class="dropdown-item" href="about.php">About Us</a></li>
+            <li><a class="dropdown-item" href="why-us.php">Why Us</a></li>
+            <li><a class="dropdown-item" href="industry-recognitions.php">Industry Recognitions</a></li>
+            <li><a class="dropdown-item" href="uvp.php">Unique Value Proposition (UVP)</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
@@ -63,8 +65,10 @@
         </li>
       </ul>
       <div class="d-flex">
-        <a href="" class="btn btn-outline-success" type="submit">Search</a>
+      <div class="cta-btn text-center"> <a href="" class="text-center cta-bg">Contact Us</a></div>
         </div>
     </div>
   </div>
 </nav>
+
+

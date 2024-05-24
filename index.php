@@ -2,14 +2,13 @@
 
 <section class="pd-100">
 
-<div class="bg-vector"></div>
- <div class="container">
+ <div class="bg-vector"></div>
+  <div class="container">
 
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
     </div>
 
     <div class="carousel-inner">
@@ -184,8 +183,8 @@
   <img src="images/skilled.png" class="emberk-services1">
   <div class="container">
     <div class="row d-flex align-center">
-     <div class="col-md-6">
-      <div class="ml50">
+     <div class="col-md-5">
+     
                <h3 class="fs32 fw500 line-height42 poppins mb40">Skilled Workforce Recruitment</h3>
                <div class="d-flex align-center mb30">
                   <span class="pdright15"><img src="images/user.png" class="w40"/></span>
@@ -202,9 +201,11 @@
                   <p class="margin-bottom-0 comfortaa fw500 line-height33 fs22">Cultural Understanding</p>
                 </div>
              </div>
-     </div>
-     <div class="col-md-6">
+     
+     <div class="col-md-7">
+     <div class="ml50">
       <img src="images/skilled1.png" class="img-fluid">
+     </div>
      </div>
     </div>
     
@@ -213,6 +214,7 @@
 
 <div class="relative">
 <img src="images/visa-travels-bg.png" class="emberk-services">
+<div class="container">
 <div class="row d-flex align-center">
      <div class="col-md-5">
       <img src="images/visa-and-travels.png" class="img-fluid">
@@ -239,10 +241,10 @@
      </div>
       
     </div>
-    
+   </div>
   </div>
 </div>
-<div class="cta-btn text-center"> <a href="" class="text-center cta-bg">Know More</a></div>
+<div class="cta-btn text-center mt60"> <a href="" class="text-center cta-bg">Know More</a></div>
 
 </section>
 
@@ -257,7 +259,7 @@
           <div class="col-md-4">
             <div class="bg-uvp pd border-radius20 box-shadow height330">
               <figure>
-                <img src="images/uvp.png" class="border-radius20 w40"/>
+                <img src="images/uvp.png" class="border-radius20 w60"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Conditional Employment</h3>
                 <p class="fs18">We offer a unique advantage - conditional offer letters from employers at the beginning
@@ -270,7 +272,7 @@
           <div class="col-md-4">
           <div class="bg-uvp pd border-radius20 box-shadow height330">
               <figure>
-                <img src="images/uvp.png" class="border-radius20 w40"/>
+                <img src="images/uvp.png" class="border-radius20 w60"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Reduced Cost & Increased Efficiency</h3>
                 <p class="fs18">Our streamlined process saves you time and money compared to traditional recruitment methods.</p>
@@ -281,7 +283,7 @@
           <div class="col-md-4">
             <div class="bg-uvp pd border-radius20 box-shadow height330">
               <figure>
-                <img src="images/uvp.png" class="border-radius20 w40"/>
+                <img src="images/uvp.png" class="border-radius20 w60"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Diverse & Qualified Talent Pool</h3>
                 <p class="fs18">Access a broader pool of talented individuals with the language skills critical for your business success.</p>
