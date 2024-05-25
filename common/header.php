@@ -30,7 +30,7 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="about.php">About Us</a></li>
             <li><a class="dropdown-item" href="why-us.php">Why Us</a></li>
-            <li><a class="dropdown-item" href="industry-recognitions.php">Industry Recognitions</a></li>
+            <li><a class="dropdown-item" href="our-processes.php">Our Processes</a></li>
             <li><a class="dropdown-item" href="uvp.php">Unique Value Proposition (UVP)</a></li>
           </ul>
         </li>

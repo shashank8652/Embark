@@ -522,6 +522,31 @@ position: inherit;
 .accordion-body{
   padding:20px 0 !important;
 }
+
+ol li{
+  font-size:18px;
+  margin-bottom:15px;
+  font-family: "Comfortaa", sans-serif;
+  line-height: 33px;
+}
+.accordion-item ul li{
+  font-size:18px;
+  margin-bottom:15px;
+  font-family: "Comfortaa", sans-serif;
+  line-height: 33px;
+}
+.faq-heading{
+  font-size: 18px;
+  color:#46B110;
+  font-family: "Poppins", sans-serif;
+  line-height: 33px;
+}
+.faq-para{
+  font-size:18px;
+  margin-bottom:15px;
+  font-family: "Comfortaa", sans-serif;
+  line-height: 33px;
+}
 /* footer css */
 
            footer ul{
