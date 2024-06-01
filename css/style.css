@@ -202,12 +202,12 @@ position: inherit;
           }
           .bg-vector-left {
             background-image: url("../images/bg-vector-left.png"); 
-            height: 560px;
+            height: 726px;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
             position: absolute;
-            width: 520px;
+            width: 680px;
             left: 0;
             top: 0;
           }
@@ -254,7 +254,7 @@ position: inherit;
           
           .our-value-vector {
             background-image: url("../images/bg-vector-left.png"); 
-            height: 590px;
+            height: 663px;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
@@ -269,6 +269,10 @@ position: inherit;
 
           .w100{
             width: 100%;
+          }
+          .w90{
+            width:90px;
+            cursor: pointer;
           }
          .content{
            padding:0 86px;
@@ -609,6 +613,12 @@ ol li{
             bottom: 60px;
             right: 0px;
         }
+
+        .flot_popup {
+          position: fixed;
+          bottom: 60px;
+          left: 0px;
+      }
         
         footer h4{
           font-size:18px;

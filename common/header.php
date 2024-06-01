@@ -10,10 +10,22 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-
+<style>
+.sticky {
+  position: fixed !important;
+  top: 0;
+  width: 100%;
+  background-color:#fff;
+  z-index: 999;
+  padding:0;
+}
+.header{
+  transition:0.6s !important;
+}
+</style>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light plr">
+<nav class="navbar navbar-expand-lg navbar-light plr header" id="myHeader">
   <div class="container">
     <a class="navbar-brand" href="index.php">
         <img src="images/logo.svg"  class="logo" alt="Embarkk Logo"/>
@@ -44,23 +56,18 @@
             </ul>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link" href="services.php" aria-expanded="false">
             Services
           </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
-          </ul>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             FAQ's
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="faq.php">Embark FAQ</a></li>
+            <li><a class="dropdown-item" href="us-faq.php">USA NON-IT WORKERS IMMIGRATION</a></li>
+            <li><a class="dropdown-item" href="canada-faq.php">USA NON-IT WORKERS IMMIGRATION</a></li>
           </ul>
         </li>
       </ul>
@@ -72,3 +79,22 @@
 </nav>
 
 
+<script>
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the header
+var header = document.getElementById("myHeader");
+
+// Get the offset position of the navbar
+var sticky = header.offsetTop;
+
+// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+</script>

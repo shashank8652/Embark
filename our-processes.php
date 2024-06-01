@@ -42,7 +42,7 @@
 </section>
 
 
-<section class="relative pd70">
+<section class="relative pd70 bg-white">
     <div class="container">
         <div class="row align-center">
             <div class="col-md-6">
