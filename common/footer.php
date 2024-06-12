@@ -73,6 +73,15 @@
         </div>
 
 
+        <div class="w20">
+        <h4 class="mb40 clr uppercaes">Resources</h4>
+        <ul>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">Blog</a></li>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">Certificats</a></li>
+        </ul>
+        </div>
+
+
         <div class="mmt-80 w20">
          <h4 class="mb40 clr uppercaes">FAQ’s</h4>
         <ul>
@@ -81,13 +90,7 @@
         </ul>
         </div>
 
-        <div class="w20">
-        <h4 class="mb40 clr uppercaes">CONNECT</h4>
-        <ul>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Contact Us</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Career</a></li>
-        </ul>
-        </div>
+        
 
         <div class="w20">
         <h4 class="mb40 clr uppercaes">CONNECT</h4>

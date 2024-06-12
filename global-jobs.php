@@ -72,10 +72,10 @@
 
             <div class="col-md-4">
                 <div class="global-jobs bg-white border-radius20">
-                    <img src="images/hospitality.png" class="w100 mb15 border-radius20"/>
+                    <img src="images/auto-tech.png" class="w100 mb15 border-radius20"/>
 
                     <div class="global-content">
-                        <p class="fs22 poppins mb15 fw500">Food processing</p>
+                        <p class="fs22 poppins mb15 fw500">Auto Tech</p>
                         <div class="d-flex space-between mb15">
                             <span class="comfortaa fs18 fw600"><img src="images/global-location.png" /> Germany</span>
 
@@ -93,10 +93,10 @@
 
             <div class="col-md-4">
                 <div class="global-jobs bg-white border-radius20">
-                    <img src="images/hospitality.png" class="w100 mb15 border-radius20"/>
+                    <img src="images/agriculture.png" class="w100 mb15 border-radius20"/>
 
                     <div class="global-content">
-                        <p class="fs22 poppins mb15 fw500">Food processing</p>
+                        <p class="fs22 poppins mb15 fw500">Agriculture</p>
                         <div class="d-flex space-between mb15">
                             <span class="comfortaa fs18 fw600"><img src="images/global-location.png" /> Germany</span>
 
@@ -114,10 +114,10 @@
 
             <div class="col-md-4">
                 <div class="global-jobs bg-white border-radius20">
-                    <img src="images/hospitality.png" class="w100 mb15 border-radius20"/>
+                    <img src="images/construction.png" class="w100 mb15 border-radius20"/>
 
                     <div class="global-content">
-                        <p class="fs22 poppins mb15 fw500">Food processing</p>
+                        <p class="fs22 poppins mb15 fw500">Constructions</p>
                         <div class="d-flex space-between mb15">
                             <span class="comfortaa fs18 fw600"><img src="images/global-location.png" /> Germany</span>
 

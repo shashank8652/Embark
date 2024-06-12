@@ -51,8 +51,8 @@
             Jobs
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Jobs in Aus</a></li>
-            <li><a class="dropdown-item" href="#">Jobs in Germ</a></li>
+            <li><a class="dropdown-item" href="global-jobs.php">Jobs in Aus</a></li>
+            <li><a class="dropdown-item" href="global-jobs.php">Jobs in Germ</a></li>
             </ul>
         </li>
         <li class="nav-item dropdown">
