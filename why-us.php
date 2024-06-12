@@ -20,7 +20,7 @@
 
             <div class="col-md-6">
                 <div class="bg-vector"></div>
-                <img src="images/hola.png" class="hola-img" alt="Hola Banner Image">
+                <img src="images/why-us-banner.png" class="w80" alt="Hola Banner Image">
             </div>
         </div>
     </div>
@@ -95,11 +95,11 @@
     <div class="row align-center">
     <div class="col-md-6">
     <div class="bg-vector-comprehensive"></div>
-    <img src="images/practice.png" class="w100" alt="Our Values">
+    <img src="images/why-us-support.png" class="w80" alt="Our Values">
     </div>
     <div class="col-md-6">
              <div class="d-flex mb30">
-              <img src="images/respectful.png" class="icon" alt="Respectful Communication"/>
+              <img src="images/end-to-end-guidance-icon.png" class="icon" alt="End-to-End Guidance"/>
               <div class="process-content">
                 <h3 class="poppins fs24">End-to-End Guidance</h3>
                 <p class="fs18">We understand the complexities of international recruitment. Our dedicated team provides support throughout the entire process, from the initial consultation to visa approval and arrival in your country.
@@ -108,7 +108,7 @@
              </div>
 
              <div class="d-flex mb30">
-              <img src="images/respectful.png" class="icon" alt="Equal Opportunity"/>
+              <img src="images/dedicated-account-manager-icon.png" class="icon" alt="Dedicated Account Manager"/>
               <div class="process-content">
                 <h3 class="poppins fs24">Dedicated Account Manager</h3>
                 <p class="fs18">Each client is assigned a dedicated account manager who serves as your single point of contact. This allows for personalized communication,
@@ -117,7 +117,7 @@
              </div>
 
              <div class="d-flex mb30">
-              <img src="images/respectful.png" class="icon" alt="Competitive Compensation"/>
+              <img src="images/pre-departure-assitance-icon.png" class="icon" alt="Pre-Departure Assistance"/>
               <div class="process-content">
                 <h3 class="poppins fs24">Pre-Departure Assistance</h3>
                 <p class="fs18">We understand the excitement and anxieties that come with moving to a new country. We provide pre-departure information and resources to help candidates feel prepared for their arrival,
@@ -151,7 +151,7 @@
           <div class="col-md-4">
             <div class="bg-white pd border-radius20 box-shadow height530">
             <figure>
-                <img src="images/experince-visa-team.png" width="100%" class="border-radius20"/>
+                <img src="images/stay-up-to-date-on-regulations.png" width="100%" class="border-radius20"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Stay Up-to-Date on Regulations</h3>
                 <p class="margin-bottom-0 comfortaa fw500 line-height28 fs16">We stay current on the latest immigration regulations and visa requirements. This ensures we provide accurate 
@@ -163,7 +163,7 @@
           <div class="col-md-4">
             <div class="bg-white pd border-radius20 box-shadow height530">
             <figure>
-                <img src="images/experince-visa-team.png" width="100%" class="border-radius20"/>
+                <img src="images/streamline.png" width="100%" class="border-radius20"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Streamlined Process</h3>
                 <p class="margin-bottom-0 comfortaa fw500 line-height28 fs16">We have a streamlined process for visa applications, maximizing efficiency and minimizing the burden on you and your HR department.

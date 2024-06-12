@@ -25,7 +25,7 @@
 
 <section class="brand-bg relative text-white pd70">
     <div class="container">
-    <div class="row align-center">
+    <!-- <div class="row align-center">
     <div class="col-md-6">
     <div class="bg-vector-left"></div>
     <img src="images/who_we_are.png" class="w100" alt="Who We Are">
@@ -38,8 +38,24 @@
        <a href="" class="cta">Contact Us</a>
         </div>
     </div>
-    </div>
-    </div>
+    </div> -->
+    <div class="w-900">
+     <h2 class="fs45 uppercaes mb30 text-center">Who we are?</h2>
+         <p class="fs20 text-center Comfortaa">We at Embarkk Consulting, specialize in crafting bespoke
+         multilingual workforce solutions tailored to the diverse needs of global
+         businesses. In today’s interconnected world, having a workforce that can
+         seamlessly communicate across linguistic barriers is not just an asset, it’s a
+         necessity. Our expertise lies in understanding the unique challenges and
+         opportunities that come with managing a multilingual team. We are dedicated
+         to helping businesses not only navigate these challenges but also leverage
+         them for competitive advantage. Through a comprehensive suite of services,
+         including talent acquisition, cultural competency training, and communication
+         strategies, we empower organizations to harness the full potential of their
+         multilingual talent. Join us in embracing the richness of linguistic diversity and
+         transforming it into your company’s strength.
+        </p>
+     </div>
+   </div>
 </section>
 
 
@@ -86,7 +102,7 @@ individuals we connect them with.</p>
 </section>
 
 
-<section class="relative pd70">
+<section class="relative pd70 bg-white">
     <div class="container">
     <h2 class="fs45 uppercaes text-center pb50">Ethical Recruitment Practices</h2>
         <div class="row align-center">
@@ -139,11 +155,11 @@ individuals we connect them with.</p>
     <div class="row align-center">
     <div class="col-md-6">
     <div class="bg-vector-left"></div>
-    <img src="images/fair-treatment.png" class="w100" alt="Our Values">
+    <img src="images/fair-treatment-to-all-img.png" class="w100" alt="Our Values">
     </div>
     <div class="col-md-6">
              <div class="d-flex mb30">
-              <img src="images/respectful.png" class="icon" alt="Respectful Communication"/>
+              <img src="images/icon1.png" class="icon" alt="Respectful Communication"/>
               <div class="process-content">
                 <h3 class="poppins fs24">Respectful Communication</h3>
                 <p class="fs18">We treat everyone with respect and dignity,
@@ -177,7 +193,7 @@ individuals we connect them with.</p>
 </section>
 
 
-<section class="relative pd70">
+<section class="relative pd70 bg-white">
     <div class="container">
     <h2 class="fs45 uppercaes text-center pb50">Creating a Positive Experience</h2>
         <div class="row align-center">
@@ -214,7 +230,7 @@ individuals we connect them with.</p>
 
             <div class="col-md-6">
                 <div class="practice-vector"></div>
-                <img src="images/practice.png" class="hola-img" alt="Ethical Recruitment Practices">
+                <img src="images/creating-a-positive-experince.png" class="hola-img" alt="Creating a Positive Experience">
             </div>
         </div>
     </div>

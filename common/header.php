@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Embarkk</title>
     <link href="css/style.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -72,7 +72,7 @@
         </li>
       </ul>
       <div class="d-flex">
-      <div class="cta-btn text-center"> <a href="" class="text-center cta-bg">Contact Us</a></div>
+      <div class="cta-btn text-center"> <a href="contact.php" class="text-center cta-bg">Contact Us <img src="images/contact-icon.png"></a></div>
         </div>
     </div>
   </div>

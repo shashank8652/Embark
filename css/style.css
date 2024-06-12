@@ -160,6 +160,9 @@ position: inherit;
         .uppercaes{
             text-transform: uppercase;
         }
+        button, optgroup{
+          line-height: 0 !important;
+        }
     .fs{
             font-weight: 500;
             line-height: 60px;
@@ -185,6 +188,21 @@ position: inherit;
             z-index: -1;
           }
 
+          .contact-vector {
+            background-image: url("../images/contact-vector.png"); 
+            height: 720px;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: absolute;
+            width: 590px;
+            right: 0;
+            top: 0;
+            z-index: -1;
+          }
+.brand-bg .emberk-services{
+  z-index: 1;
+}
           .emberk-services{
             position: absolute;
             top: 0;
@@ -192,6 +210,15 @@ position: inherit;
              left: 0;
              height: 685px;
              z-index: -1;
+          }
+
+          .emberk-services22{
+            position: absolute;
+            top: 0;
+            width: 582px;
+             left: 0;
+             height: 619px;
+             z-index: 1;
           }
           .emberk-services1{
              position: absolute;
@@ -209,6 +236,17 @@ position: inherit;
             position: absolute;
             width: 680px;
             left: 0;
+            top: 0;
+          }
+          .candidate-profile-vector{
+            background-image: url("../images/candidate-profile-vector.png"); 
+            height: 652px;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: absolute;
+            width: 766px;
+            right: 0;
             top: 0;
           }
 
@@ -355,6 +393,9 @@ position: inherit;
            .fs18{
               font-size:18px;
            }
+           .fs16{
+            font-size:16px;
+         }
            .fs40{
             font-size:40px;
            }
@@ -551,7 +592,13 @@ ol li{
   font-family: "Comfortaa", sans-serif;
   line-height: 33px;
 }
+.height150{
+  height: 150px;
+}
 /* footer css */
+          /* .w20{
+            width:20%;
+          } */
 
            footer ul{
             list-style-type: none;
@@ -575,7 +622,7 @@ ol li{
             padding: 50px 0;
         }
         .pd{
-               padding:42px 24px;
+               padding:24px 24px;
         }
         .mb20 {
             margin-bottom: 20px;
@@ -613,7 +660,9 @@ ol li{
             bottom: 60px;
             right: 0px;
         }
-
+.w80{
+  width: 80%;
+}
         .flot_popup {
           position: fixed;
           bottom: 60px;

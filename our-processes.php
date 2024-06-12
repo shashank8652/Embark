@@ -1,7 +1,7 @@
 
 <?php include('common/header.php') ?>
 
-<section class="mb100">
+<section class="pd-100">
     <div class="container">
         <div class="row align-center">
             <div class="col-md-6">
@@ -13,7 +13,7 @@
 
             <div class="col-md-6">
                 <div class="bg-vector"></div>
-                <img src="images/hola.png" class="hola-img" alt="Hola Banner Image">
+                <img src="images/our-approch-banner.png" class="hola-img" alt="Building Your Global Team: Our Simplified Process">
             </div>
         </div>
     </div>
@@ -25,7 +25,7 @@
     <div class="row align-center">
     <div class="col-md-6">
     <div class="bg-vector-left"></div>
-    <img src="images/who_we_are.png" class="w100" alt="Who We Are">
+    <img src="images/initial-consultant.png" class="w80" alt="Initial Consultation & Needs Assessment">
     </div>
     <div class="col-md-6">
         <div class="">
@@ -57,8 +57,8 @@
             </div>
 
             <div class="col-md-6">
-                <div class="bg-vector-right"></div>
-                <img src="images/our-mission.png" class="w100" alt="Our Mission">
+                <div class="candidate-profile-vector"></div>
+                <img src="images/candidate-profile.png" class="w80" alt="Our Mission">
             </div>
         </div>
     </div>
@@ -68,11 +68,11 @@
 
 
 <section class="brand-bg relative text-white pd70">
+<img src="images/emberk-services.png" class="emberk-services">
     <div class="container">
     <div class="row align-center">
     <div class="col-md-6">
-    <div class="our-value-vector"></div>
-    <img src="images/our-values.png" class="w100" alt="Our Values">
+    <img src="images/language-training.png" class="hola-img" alt="Language Training & Certification">
     </div>
     <div class="col-md-6">
         <div class="">
@@ -102,7 +102,7 @@
 
             <div class="col-md-6">
                 <div class="practice-vector"></div>
-                <img src="images/practice.png" class="hola-img" alt="Ethical Recruitment Practices">
+                <img src="images/visa-application.png" class="hola-img" alt="Ethical Recruitment Practices">
             </div>
         </div>
     </div>
@@ -112,14 +112,15 @@
 
 
 <section class="brand-bg relative text-white pd70">
+<img src="images/emberk-services.png" class="emberk-services22">
     <div class="container">
     <div class="row align-center">
     <div class="col-md-6">
-    <div class="bg-vector-left"></div>
-    <img src="images/fair-treatment.png" class="w100" alt="Our Values">
+ 
+    <img src="images/post-arrival.png" class="w100" alt="Our Values">
     </div>
      <div class="col-md-6">
-     <h2 class="fs45 uppercaes mb30 line-height58">Visa Application & <br />Travel Arrangements</h2>
+     <h2 class="fs45 uppercaes mb30 line-height58">Post-Arrival Support & Integration Assistance</h2>
             <ul class="">
                 <li class="comfortaa fw500 line-height fs20 mb20">We offer ongoing support to ensure a smooth integration for your new employees.</li>
                 <li class="comfortaa fw500 line-height fs20 mb20">This includes cultural orientation, assistance with settling in, and continued language training if needed.</li>

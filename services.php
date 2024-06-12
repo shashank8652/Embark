@@ -13,7 +13,7 @@
 
             <div class="col-md-6">
                 <div class="bg-vector"></div>
-                <img src="images/hola.png" class="hola-img" alt="Hola Banner Image">
+                <img src="images/services-banner.png" class="hola-img" alt="Hola Banner Image">
             </div>
         </div>
     </div>
@@ -28,7 +28,7 @@
           <div class="col-md-6">
             <div class="bg-white pd border-radius20 box-shadow mb25 height530">
               <figure>
-                <img src="images/services-dummy.png" width="100%" class="border-radius20"/>
+                <img src="images/tailord-program.png" width="100%" class="border-radius20" alt="Tailored Programs" />
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins margin-bottom-0">Tailored Programs</h3>
                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs2">We offer customized language training programs in German, Spanish, and French, designed to match the
@@ -41,7 +41,7 @@
           <div class="col-md-6">
              <div class="bg-white pd border-radius20 box-shadow mb25 height530">
               <figure>
-                <img src="images/services-dummy.png" width="100%" class="border-radius20"/>
+                <img src="images/experienced-instructors.png" width="100%" class="border-radius20"/>
                </figure>
                  <h3 class="fs22 fw500 line-height42 poppins margin-bottom-0">Experienced Instructors</h3>
                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs2">We treat everyone with respect and dignity,
@@ -53,7 +53,7 @@
           <div class="col-md-6">
              <div class="bg-white pd border-radius20 box-shadow mb25 height530">
               <figure>
-                <img src="images/services-dummy.png" width="100%" class="border-radius20"/>
+                <img src="images/focus-on-industry.png" width="100%" alt="Focus on Industry-Specific Vocabulary" class="border-radius20"/>
                </figure>
                  <h3 class="fs22 fw500 line-height42 poppins margin-bottom-0">Focus on Industry-Specific Vocabulary</h3>
                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs2">We go beyond basic conversation and equip your future employees
@@ -65,7 +65,7 @@
           <div class="col-md-6">
              <div class="bg-white pd border-radius20 box-shadow mb25 height530">
               <figure>
-                <img src="images/services-dummy.png" width="100%" class="border-radius20"/>
+                <img src="images/internationally-recognized-certifications.png" width="100%" class="border-radius20" alt="Internationally Recognized Certifications"/>
                </figure>
                  <h3 class="fs22 fw500 line-height42 poppins margin-bottom-0">Internationally Recognized Certifications</h3>
                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs2">Upon successful completion, participants 
@@ -142,7 +142,7 @@
           <div class="col-md-4">
             <div class="bg-white pd border-radius20 box-shadow height330">
               <figure>
-                <img src="images/uvp.png" class="border-radius20 w60"/>
+                <img src="images/streamline-icon.png" class="w60"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Streamlined Visa Application</h3>
                 <p class="fs18">We guide candidates through the entire visa application process, ensuring all 
@@ -155,7 +155,7 @@
           <div class="col-md-4">
           <div class="bg-white pd border-radius20 box-shadow height330">
               <figure>
-                <img src="images/uvp.png" class="border-radius20 w60"/>
+                <img src="images/liasion-icon.png" class="w60"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Liaison with Authorities</h3>
                 <p class="fs18">Our team acts as your liaison with relevant government authorities,
@@ -167,7 +167,7 @@
           <div class="col-md-4">
             <div class="bg-white pd border-radius20 box-shadow height330">
               <figure>
-                <img src="images/uvp.png" class="border-radius20 w60"/>
+                <img src="images/pre-departure-assitance-icon.png" class="w60"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Pre-Departure Support</h3>
                 <p class="fs18">We provide pre-departure assistance to help candidates prepare for their relocation, 

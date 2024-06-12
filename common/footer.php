@@ -27,7 +27,7 @@
 </div>
 
   <div class="row mt60">
-    <div class="col-md-5">
+    <div class="col-md-4">
         <div class="d-flex mb20">
             <div class="w60">
                 <img src="images/location.png" class="loc-img">
@@ -51,30 +51,45 @@
         
     </div>
 
-    <div class="col-md-7">
-    <div class="row mt50">
-        <div class="col-md-6 col-sm-6">
-         <h4 class="mb40 clr uppercaes">Services</h4>
-        <ul>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Foreign Language Training</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Skilled Workforce Recruitment</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Visa & Travel Assistance</a></li>
-           
-        </ul>
-        </div>
-
-
-        <div class="col-md-3 col-sm-6 mmt-80">
+    <div class="col-md-8">
+    <div class="mt50 d-flex space-between">
+        <div class="w20">
          <h4 class="mb40 clr uppercaes">company</h4>
         <ul>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Why choose us</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Our team</a></li>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">About Us</a></li>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">Why Us</a></li>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">Services</a></li>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">Our Process</a></li>
             <li class="mb15"><a href="" class="text-decoration text-black fs18">UVP</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">FAQ’s</a></li>
         </ul>
         </div>
 
-        <div class="col-md-3">
+        <div class="mmt-80 w20">
+         <h4 class="mb40 clr uppercaes">jobs</h4>
+        <ul>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">Global Jobs</a></li>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">Career</a></li>
+        </ul>
+        </div>
+
+
+        <div class="mmt-80 w20">
+         <h4 class="mb40 clr uppercaes">FAQ’s</h4>
+        <ul>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">USA</a></li>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">Canada</a></li>
+        </ul>
+        </div>
+
+        <div class="w20">
+        <h4 class="mb40 clr uppercaes">CONNECT</h4>
+        <ul>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">Contact Us</a></li>
+            <li class="mb15"><a href="" class="text-decoration text-black fs18">Career</a></li>
+        </ul>
+        </div>
+
+        <div class="w20">
         <h4 class="mb40 clr uppercaes">CONNECT</h4>
         <ul>
             <li class="mb15"><a href="" class="text-decoration text-black fs18">Contact Us</a></li>

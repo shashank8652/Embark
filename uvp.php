@@ -16,7 +16,7 @@
 
             <div class="col-md-5">
                 <div class="bg-vector"></div>
-                <img src="images/hola.png" class="hola-img" alt="Unlocking Your Competitive Advantage with Embarkk Consulting">
+                <img src="images/uvp-banner.png" class="img-fluid" alt="Unlocking Your Competitive Advantage with Embarkk Consulting">
             </div>
         </div>
     </div>
@@ -90,7 +90,7 @@
           <div class="col-md-4">
             <div class="bg-white pd18 border-radius20 box-shadow height330">
               <figure>
-                <img src="images/uvp.png" class="border-radius20 w60"/>
+                <img src="images/handshake-icon.png" class="w60"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Focus on Long-Term Partnership</h3>
                 <p class="fs18 comfortaa">We believe in building long-term partnerships with our clients. We take the time to understand your 
@@ -103,7 +103,7 @@
           <div class="col-md-4">
           <div class="bg-white pd18 border-radius20 box-shadow height330">
               <figure>
-                <img src="images/uvp.png" class="border-radius20 w60"/>
+                <img src="images/data-driven-decision-making-icon.png" class="w60"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Data-Driven Decision Making</h3>
                 <p class="fs18 comfortaa">We utilize data and analytics to **identify the right talent pools, optimize our search strategies,
@@ -115,7 +115,7 @@
           <div class="col-md-4">
             <div class="bg-white pd18 border-radius20 box-shadow height330">
               <figure>
-                <img src="images/uvp.png" class="border-radius20 w60"/>
+                <img src="images/users.png" class="w60"/>
               </figure>
                 <h3 class="fs22 fw500 line-height42 poppins mb15">Transparency & Communication</h3>
                 <p class="fs18 comfortaa">We maintain open communication throughout the entire process, keeping you informed of progress,
