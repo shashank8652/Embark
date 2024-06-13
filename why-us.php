@@ -7,6 +7,12 @@
         padding: 88px 78px;
 
     }
+
+    @media screen and (min-width: 320px) and (max-width: 600px) {
+      .up-down {
+        padding: 73px 5px;
+    }
+    }
 </style>
 
 <section class="pd-100">
@@ -95,7 +101,7 @@
     <div class="row align-center">
     <div class="col-md-6">
     <div class="bg-vector-comprehensive"></div>
-    <img src="images/why-us-support.png" class="w80" alt="Our Values">
+    <img src="images/why-us-support.png" class="w80 mb30" alt="Our Values">
     </div>
     <div class="col-md-6">
              <div class="d-flex mb30">

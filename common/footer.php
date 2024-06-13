@@ -16,7 +16,7 @@
 <div class="pdtp50">
 <div class="container">
 
-<div class="d-flex space-between">
+<div class="d-flex space-between align-center">
   <img src="images/footer-logo.png" class="mobile-logo" width="150px" alt="Embarkk Logo">
  
        <ul class="d-flex mt50">
@@ -51,14 +51,14 @@
         
     </div>
 
-    <div class="col-md-8">
+    <div class="col-md-8 footers">
     <div class="mt50 d-flex space-between">
         <div class="w20">
          <h4 class="mb40 clr uppercaes">company</h4>
         <ul>
             <li class="mb15"><a href="about-us.php" class="text-decoration text-black fs18">About Us</a></li>
             <li class="mb15"><a href="why-us.php" class="text-decoration text-black fs18">Why Us</a></li>
-            <li class="mb15"><a href="our-process.php" class="text-decoration text-black fs18">Our Process</a></li>
+            <li class="mb15"><a href="our-processes.php" class="text-decoration text-black fs18">Our Process</a></li>
             <li class="mb15"><a href="uvp.php" class="text-decoration text-black fs18">UVP</a></li>
             <li class="mb15"><a href="industry-recognitions.php" class="text-decoration text-black fs18">Industry Recognitions</a></li>
             

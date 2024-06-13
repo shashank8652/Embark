@@ -155,7 +155,7 @@ individuals we connect them with.</p>
     <div class="row align-center">
     <div class="col-md-6">
     <div class="bg-vector-left"></div>
-    <img src="images/fair-treatment-to-all-img.png" class="w100" alt="Our Values">
+    <img src="images/fair-treatment-to-all-img.png" class="w100 mb30" alt="Our Values">
     </div>
     <div class="col-md-6">
              <div class="d-flex mb30">

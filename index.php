@@ -146,13 +146,13 @@
     <img src="images/emberk-services.png" class="emberk-services">
   <div class="container">
     <h1 class="text-center uppercaes poppins fs50 mb40">EMbarkk’s services</h1>
-    <div class="row d-flex align-center">
+    <div class="row d-flex align-center mb40">
      <div class="col-md-5">
-      <img src="images/practice.png" class="img-fluid">
+      <img src="images/practice.png" class="img-fluid mb20">
      </div>
 
      <div class="col-md-7">
-      <div class="ml50">
+         <div class="ml50">
                <h3 class="fs32 fw500 line-height42 poppins mb40">Foreign Language Training</h3>
                <div class="d-flex align-center mb30">
                   <span class="pdright15"><img src="images/tailord-program-icon.png" class="w40"/></span>
@@ -183,10 +183,13 @@
 <div class="relative">
   <img src="images/skilled.png" class="emberk-services1">
   <div class="container">
-    <div class="row d-flex align-center">
+    <div class="row d-flex align-center mb40">
      <div class="col-md-5">
      
-               <h3 class="fs32 fw500 line-height42 poppins mb40">Skilled Workforce Recruitment</h3>
+           
+
+                <img src="images/skilled1.png" class="img-fluid mobile mb20">
+                <h3 class="fs32 fw500 line-height42 poppins mb40">Skilled Workforce Recruitment</h3>
                <div class="d-flex align-center mb30">
                   <span class="pdright15"><img src="images/targeted-icon.png" class="w40"/></span>
                   <p class="margin-bottom-0 comfortaa fw500 line-height33 fs22">Targeted Search & Sourcing</p>
@@ -205,7 +208,7 @@
      
      <div class="col-md-7">
       <div class="ml50">
-       <img src="images/skilled1.png" class="img-fluid">
+       <img src="images/skilled1.png" class="img-fluid desktop">
       </div>
      </div>
     </div>
@@ -218,7 +221,7 @@
 <div class="container">
 <div class="row d-flex align-center">
      <div class="col-md-5">
-      <img src="images/visa-and-travels.png" class="img-fluid">
+      <img src="images/visa-and-travels.png" class="img-fluid mb30">
      </div>
 
      <div class="col-md-7">
@@ -382,7 +385,7 @@
         
          <div class="row gx-5">
             <div class="col-md-4">
-                <div class="global-jobs bg-white border-radius20">
+                <div class="global-jobs bg-white border-radius20 mb20">
                     <img src="images/hospitality.png" class="w100 mb15 border-radius20"/>
 
                     <div class="global-content">
@@ -402,7 +405,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="global-jobs bg-white border-radius20">
+                <div class="global-jobs bg-white border-radius20 mb20">
                     <img src="images/food-processing.png" class="w100 mb15 border-radius20"/>
 
                     <div class="global-content">
@@ -424,7 +427,7 @@
 
 
             <div class="col-md-4">
-                <div class="global-jobs bg-white border-radius20">
+                <div class="global-jobs bg-white border-radius20 mb20">
                     <img src="images/nursing.png" class="w100 mb15 border-radius20"/>
 
                     <div class="global-content">
@@ -455,7 +458,7 @@
     <h1 class="text-center uppercaes poppins fs40">Blogs</h1>
     <div class="row pd70">
           <div class="col-md-4">
-             <div class="home-blog">
+             <div class="home-blog mb20">
                 <a href="" class="text-decoration text-black">
                   <figure>
                     <img src="images/blog1.png" class="img-fluid border-radius20" alt="Blog 1" />
@@ -466,7 +469,7 @@
           </div>
 
           <div class="col-md-4">
-             <a href="" class="text-decoration text-black">
+             <a href="" class="text-decoration text-black mb20">
                   <figure>
                     <img src="images/blog2.png" class="img-fluid border-radius20" alt="Blog 2" />
                   </figure>
@@ -475,7 +478,7 @@
           </div>
 
           <div class="col-md-4">
-               <a href="" class="text-decoration text-black">
+               <a href="" class="text-decoration text-black mb20">
                   <figure>
                     <img src="images/blog3.png" class="img-fluid border-radius20" alt="Blog 3" />
                   </figure>

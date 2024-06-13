@@ -47,6 +47,9 @@
 
          <div class="row dflex align-center mb70">
             <div class="col-md-6">
+            <figure class="ml40 mobile">
+                    <img src="images/reduced-cost-and-increased-efficiency.png" class="w100 border-radius20" alt="Reduced Cost & Increased Efficiency">
+                </figure>
                 <div class="services-content">
                 <h3 class="fs24 fw500 line-height42 poppins mb20 text-white">Reduced Cost & Increased Efficiency</h3>
                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20 text-white">Unlike traditional recruitment methods, our streamlined process and expertise save you valuable time and resources. You avoid the complexities of international
@@ -55,7 +58,7 @@
             </div>
 
             <div class="col-md-6">
-                <figure class="ml40">
+                <figure class="ml40 desktop">
                     <img src="images/reduced-cost-and-increased-efficiency.png" class="w100 border-radius20" alt="Reduced Cost & Increased Efficiency">
                 </figure>
             </div>
@@ -88,7 +91,7 @@
     <h1 class="text-center uppercaes poppins fs40 mb70">Our Approach</h1>
     <div class="row">
           <div class="col-md-4">
-            <div class="bg-white pd18 border-radius20 box-shadow height330">
+            <div class="bg-white pd18 border-radius20 box-shadow height330 mb30">
               <figure>
                 <img src="images/handshake-icon.png" class="w60"/>
               </figure>
@@ -101,7 +104,7 @@
 
 
           <div class="col-md-4">
-          <div class="bg-white pd18 border-radius20 box-shadow height330">
+          <div class="bg-white pd18 border-radius20 box-shadow height330 mb30">
               <figure>
                 <img src="images/data-driven-decision-making-icon.png" class="w60"/>
               </figure>
@@ -113,7 +116,7 @@
 
 
           <div class="col-md-4">
-            <div class="bg-white pd18 border-radius20 box-shadow height330">
+            <div class="bg-white pd18 border-radius20 box-shadow height330 mb30">
               <figure>
                 <img src="images/users.png" class="w60"/>
               </figure>

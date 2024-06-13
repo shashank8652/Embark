@@ -25,7 +25,7 @@
     <div class="row align-center">
     <div class="col-md-6">
     <div class="bg-vector-left"></div>
-    <img src="images/initial-consultant.png" class="w80" alt="Initial Consultation & Needs Assessment">
+    <img src="images/initial-consultant.png" class="w80 mb30" alt="Initial Consultation & Needs Assessment">
     </div>
     <div class="col-md-6">
         <div class="">
@@ -72,7 +72,7 @@
     <div class="container">
     <div class="row align-center">
     <div class="col-md-6">
-    <img src="images/language-training.png" class="hola-img" alt="Language Training & Certification">
+    <img src="images/language-training.png" class="hola-img mb30" alt="Language Training & Certification">
     </div>
     <div class="col-md-6">
         <div class="">
@@ -117,7 +117,7 @@
     <div class="row align-center">
     <div class="col-md-6">
  
-    <img src="images/post-arrival.png" class="w100" alt="Our Values">
+    <img src="images/post-arrival.png" class="w100 mb30" alt="Our Values">
     </div>
      <div class="col-md-6">
      <h2 class="fs45 uppercaes mb30 line-height58">Post-Arrival Support & Integration Assistance</h2>
