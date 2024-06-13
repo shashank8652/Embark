@@ -44,6 +44,7 @@
             <li><a class="dropdown-item" href="why-us.php">Why Us</a></li>
             <li><a class="dropdown-item" href="our-processes.php">Our Processes</a></li>
             <li><a class="dropdown-item" href="uvp.php">Unique Value Proposition (UVP)</a></li>
+            <li><a class="dropdown-item" href="industry-recognitions.php">Industry Recognitions</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
@@ -51,8 +52,8 @@
             Jobs
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="global-jobs.php">Jobs in Aus</a></li>
-            <li><a class="dropdown-item" href="global-jobs.php">Jobs in Germ</a></li>
+            <li><a class="dropdown-item" href="global-jobs.php">Global Jobs</a></li>
+            <li><a class="dropdown-item" href="career.php">Career in Embark</a></li>
             </ul>
         </li>
         <li class="nav-item dropdown">

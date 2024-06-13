@@ -56,19 +56,20 @@
         <div class="w20">
          <h4 class="mb40 clr uppercaes">company</h4>
         <ul>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">About Us</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Why Us</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Services</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Our Process</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">UVP</a></li>
+            <li class="mb15"><a href="about-us.php" class="text-decoration text-black fs18">About Us</a></li>
+            <li class="mb15"><a href="why-us.php" class="text-decoration text-black fs18">Why Us</a></li>
+            <li class="mb15"><a href="our-process.php" class="text-decoration text-black fs18">Our Process</a></li>
+            <li class="mb15"><a href="uvp.php" class="text-decoration text-black fs18">UVP</a></li>
+            <li class="mb15"><a href="industry-recognitions.php" class="text-decoration text-black fs18">Industry Recognitions</a></li>
+            
         </ul>
         </div>
 
         <div class="mmt-80 w20">
          <h4 class="mb40 clr uppercaes">jobs</h4>
         <ul>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Global Jobs</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Career</a></li>
+            <li class="mb15"><a href="global-jobs.php" class="text-decoration text-black fs18">Global Jobs</a></li>
+            <li class="mb15"><a href="global-jobs.php" class="text-decoration text-black fs18">Career</a></li>
         </ul>
         </div>
 
@@ -76,8 +77,8 @@
         <div class="w20">
         <h4 class="mb40 clr uppercaes">Resources</h4>
         <ul>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Blog</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Certificats</a></li>
+            <li class="mb15"><a href="services.php" class="text-decoration text-black fs18">Services</a></li>
+            <li class="mb15"><a href="blog-list.php" class="text-decoration text-black fs18">Blog</a></li>
         </ul>
         </div>
 
@@ -85,8 +86,8 @@
         <div class="mmt-80 w20">
          <h4 class="mb40 clr uppercaes">FAQ’s</h4>
         <ul>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">USA</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Canada</a></li>
+            <li class="mb15"><a href="us-faq.php" class="text-decoration text-black fs18">USA</a></li>
+            <li class="mb15"><a href="canada-faq.php" class="text-decoration text-black fs18">Canada</a></li>
         </ul>
         </div>
 

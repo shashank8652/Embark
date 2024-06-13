@@ -46,6 +46,10 @@ position: inherit;
   position: inherit;
 }
 
+.msme .carousel-indicators{
+  margin-bottom: -2rem;
+}
+
 .carousel-indicators [data-bs-target]{
      width: 10px !important;
      height: 10px !important;
@@ -440,7 +444,7 @@ position: inherit;
            }
            .global-jobs{
             box-shadow: 2px 5px 44px 0px #0000001F;
-            padding:42px 24px 42px 24px;
+            padding:24px;
            }
            .apply-cta{
             background-color: #4BAF0C;
@@ -712,3 +716,97 @@ ol li{
             font-size: 16px;
         }
         }
+
+
+
+
+
+        /* Mobile Responsive */
+        @media screen and (min-width: 320px) and (max-width: 600px) {
+         html, body{
+            overflow-x: hidden;
+          }
+        .emberk-services{
+          display: none;
+        }
+        .plr{
+          padding:0;
+        }
+        .logo{
+          width: 150px;
+        }
+        .w90 {
+          width: 65px;
+      }
+      br{
+        display: none;
+      }
+      .up-down::after{
+        display: none;
+      }
+      .up-down::before{
+        display: none;
+      }
+      .up-down{
+        padding: 73px 5px;
+      }
+      .carousel-item .m-block{
+        display:block !important;
+      }
+      .fs {
+        font-weight: 500;
+        line-height: 42px;
+        font-size: 30px;
+        text-align: center;
+    }
+    .pd-100 {
+      padding: 50px 0;
+  }
+  .fs40 {
+    font-size: 24px;
+    }
+  .pd70 {
+     padding: 30px 0;
+   }
+    .brand-bg h1{
+    font-weight: 400;
+     }
+     .pd {
+      padding: 10px;
+      margin-bottom: 20px;
+      }
+      .fs22 {
+        font-size: 18px;
+       }
+       .line-height42 {
+        line-height: 30px;
+        }
+        .fs20 {
+          font-size: 16px;
+      }
+      .w36 {
+        width: 26px;
+        height: 26px;
+    }
+    .line-height33 {
+      line-height: 28px;
+  }
+  .cta-transparent{
+    font-size: 16px;
+  }
+  .fs50 {
+    font-size: 24px;
+}
+.ml50 {
+  margin-left: 5px;
+}
+.fs32 {
+  font-size: 18px;
+}
+.w40 {
+  width: 26px;
+}
+.gap-5 {
+  gap: 1rem !important;
+}
+      }

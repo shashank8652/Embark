@@ -11,9 +11,9 @@
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
     </div>
 
-    <div class="carousel-inner">
+       <div class="carousel-inner">
          <div class="align-center carousel-item active">
-         <div class="d-flex">
+         <div class="d-flex m-block">
             <div class="col-md-6">
                 <div class="up-down">
                   <h1 class="poppins uppercaes fs">Bridging the<br />
@@ -25,14 +25,13 @@
             </div>
 
             <div class="col-md-6">
-                <!-- <div class="bg-vector"></div> -->
                 <img src="images/hola.png" class="hola-img" alt="Hola Banner Image">
             </div>
         </div>
        </div>
 
         <div class="align-center carousel-item">
-            <div class="d-flex">
+            <div class="d-flex m-block">
             <div class="col-md-6">
                 <div class="up-down">
                   <h1 class="poppins uppercaes fs">Bridging the<br />
@@ -44,7 +43,6 @@
             </div>
 
             <div class="col-md-6">
-                <!-- <div class="bg-vector"></div> -->
                 <img src="images/hola.png" class="hola-img" alt="Hola Banner Image">
             </div>
         </div>
@@ -397,20 +395,18 @@
                         <p class="comfortaa fs18 fw600"><img src="images/graduate.png" /> 12th pass/ Graduate</p>
                     
                         <div class="d-flex space-between">
-                            <a href="#" class="apply-cta text-white w49 text-center">Apply</a>
-                            <a href="#" class="job-cta w49 text-center">Job Description</a>
+                            <a href="#https://docs.google.com/forms/d/e/1FAIpQLSdWOqX1HuIiSGuXC9GzSEizF6cMYGekQiY9B-rfpoDWoFztbA/viewform" class="apply-cta text-white w49 text-center">Apply</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWOqX1HuIiSGuXC9GzSEizF6cMYGekQiY9B-rfpoDWoFztbA/viewform" class="job-cta w49 text-center">Job Description</a>
                         </div>
                     </div>
                 </div>
             </div>
-
-
             <div class="col-md-4">
                 <div class="global-jobs bg-white border-radius20">
                     <img src="images/food-processing.png" class="w100 mb15 border-radius20"/>
 
                     <div class="global-content">
-                        <p class="fs22 poppins mb15 fw500">Food processing</p>
+                        <p class="fs22 poppins mb15 fw500">Hospitality</p>
                         <div class="d-flex space-between mb15">
                             <span class="comfortaa fs18 fw600"><img src="images/global-location.png" /> Germany</span>
 
@@ -419,8 +415,8 @@
                         <p class="comfortaa fs18 fw600"><img src="images/graduate.png" /> 12th pass/ Graduate</p>
                     
                         <div class="d-flex space-between">
-                            <a href="#" class="apply-cta text-white w49 text-center">Apply</a>
-                            <a href="#" class="job-cta w49 text-center">Job Description</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRA1_eNcqZojZ9ugRtpAHlBfeEoElMtFAuX4PD1FGLVdy_yQ/viewform" class="apply-cta text-white w49 text-center">Apply</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRA1_eNcqZojZ9ugRtpAHlBfeEoElMtFAuX4PD1FGLVdy_yQ/viewform" class="job-cta w49 text-center">Job Description</a>
                         </div>
                     </div>
                 </div>
@@ -441,8 +437,8 @@
                         <p class="comfortaa fs18 fw600"><img src="images/graduate.png" /> 12th pass/ Graduate</p>
                     
                         <div class="d-flex space-between">
-                            <a href="#" class="apply-cta text-white w49 text-center">Apply</a>
-                            <a href="#" class="job-cta w49 text-center">Job Description</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXWnSLv-y9lsLNpmFFVCRq_MQYeEt7ZdYO6wCcaJsim0vzsw/viewform" class="apply-cta text-white w49 text-center">Apply</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXWnSLv-y9lsLNpmFFVCRq_MQYeEt7ZdYO6wCcaJsim0vzsw/viewform" class="job-cta w49 text-center">Job Description</a>
                         </div>
                     </div>
                 </div>
@@ -462,7 +458,7 @@
              <div class="home-blog">
                 <a href="" class="text-decoration text-black">
                   <figure>
-                    <img src="images/blog1.png" class="img-fluid" alt="Blog 1" />
+                    <img src="images/blog1.png" class="img-fluid border-radius20" alt="Blog 1" />
                   </figure>
                   <p class="poppins fs22 fw500">Bridging the Gap: How Indian Industrial Workers with Foreign Languages are Powering European Growth</p>
                 </a>
@@ -472,7 +468,7 @@
           <div class="col-md-4">
              <a href="" class="text-decoration text-black">
                   <figure>
-                    <img src="images/blog2.png" class="img-fluid" alt="Blog 2" />
+                    <img src="images/blog2.png" class="img-fluid border-radius20" alt="Blog 2" />
                   </figure>
                   <p class="poppins fs22 fw500">Unlock Your Earning Potential: Why Foreign Languages are the Key to High-Paying Jobs in Europe</p>
                 </a>
@@ -481,7 +477,7 @@
           <div class="col-md-4">
                <a href="" class="text-decoration text-black">
                   <figure>
-                    <img src="images/blog3.png" class="img-fluid" alt="Blog 3" />
+                    <img src="images/blog3.png" class="img-fluid border-radius20" alt="Blog 3" />
                   </figure>
                   <p class="poppins fs22 fw500">Navigating the Challenges of Indian Skilled Workers Abroad: Cultural Integration, 
                   Recognition of Qualifications, and Visa Regulations</p>
@@ -489,7 +485,7 @@
           </div>
          </div>
 
-        <div class="cta-btn text-center"> <a href="blog-list.php" class="text-center cta-bg">Know More</a></div>
+        <div class="cta-btn text-center"> <a href="blog-list.php" class="text-center cta-bg">Read More</a></div>
   </div>
 </section>
 

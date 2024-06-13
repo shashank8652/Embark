@@ -6,7 +6,7 @@
      Languages are Powering European Growth</h2>
 
      <figure>
-        <img src="images/dummy-blog-list.png" class="w100" alt="Bridging the Gap: How Indian Industrial Workers with Foreign
+        <img src="images/blog1.png" class="w100" alt="Bridging the Gap: How Indian Industrial Workers with Foreign
      Languages are Powering European Growth">
      </figure>
 
