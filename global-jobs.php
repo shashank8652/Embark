@@ -19,8 +19,8 @@
                         <p class="comfortaa fs18 fw600"><img src="images/graduate.png" /> 12th pass/ Graduate</p>
                     
                         <div class="d-flex space-between">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWOqX1HuIiSGuXC9GzSEizF6cMYGekQiY9B-rfpoDWoFztbA/viewform" class="apply-cta text-white w49 text-center">Apply</a>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWOqX1HuIiSGuXC9GzSEizF6cMYGekQiY9B-rfpoDWoFztbA/viewform" class="job-cta w49 text-center">Job Description</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWOqX1HuIiSGuXC9GzSEizF6cMYGekQiY9B-rfpoDWoFztbA/viewform" target="_blank" class="apply-cta text-white w49 text-center">Apply</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWOqX1HuIiSGuXC9GzSEizF6cMYGekQiY9B-rfpoDWoFztbA/viewform" target="_blank" class="job-cta w49 text-center">Job Description</a>
                         </div>
                     </div>
                 </div>
@@ -41,8 +41,8 @@
                         <p class="comfortaa fs18 fw600"><img src="images/graduate.png" /> 12th pass/ Graduate</p>
                     
                         <div class="d-flex space-between">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRA1_eNcqZojZ9ugRtpAHlBfeEoElMtFAuX4PD1FGLVdy_yQ/viewform" class="apply-cta text-white w49 text-center">Apply</a>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRA1_eNcqZojZ9ugRtpAHlBfeEoElMtFAuX4PD1FGLVdy_yQ/viewform" class="job-cta w49 text-center">Job Description</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRA1_eNcqZojZ9ugRtpAHlBfeEoElMtFAuX4PD1FGLVdy_yQ/viewform" target="_blank" class="apply-cta text-white w49 text-center">Apply</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRA1_eNcqZojZ9ugRtpAHlBfeEoElMtFAuX4PD1FGLVdy_yQ/viewform" target="_blank" class="job-cta w49 text-center">Job Description</a>
                         </div>
                     </div>
                 </div>
@@ -63,8 +63,8 @@
                         <p class="comfortaa fs18 fw600"><img src="images/graduate.png" /> 12th pass/ Graduate</p>
                     
                         <div class="d-flex space-between">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXWnSLv-y9lsLNpmFFVCRq_MQYeEt7ZdYO6wCcaJsim0vzsw/viewform" class="apply-cta text-white w49 text-center">Apply</a>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXWnSLv-y9lsLNpmFFVCRq_MQYeEt7ZdYO6wCcaJsim0vzsw/viewform" class="job-cta w49 text-center">Job Description</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXWnSLv-y9lsLNpmFFVCRq_MQYeEt7ZdYO6wCcaJsim0vzsw/viewform" target="_blank" class="apply-cta text-white w49 text-center">Apply</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXWnSLv-y9lsLNpmFFVCRq_MQYeEt7ZdYO6wCcaJsim0vzsw/viewform" target="_blank" class="job-cta w49 text-center">Job Description</a>
                         </div>
                     </div>
                 </div>
@@ -84,8 +84,8 @@
                         <p class="comfortaa fs18 fw600"><img src="images/graduate.png" /> 12th pass/ Graduate</p>
                     
                         <div class="d-flex space-between">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSebz8SOiH2PrOmqPr6-DI61KbJ03RSFaXABJAaCyk9CWWPsnw/viewform#" class="apply-cta text-white w49 text-center">Apply</a>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSebz8SOiH2PrOmqPr6-DI61KbJ03RSFaXABJAaCyk9CWWPsnw/viewform#" class="job-cta w49 text-center">Job Description</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSebz8SOiH2PrOmqPr6-DI61KbJ03RSFaXABJAaCyk9CWWPsnw/viewform#" target="_blank" class="apply-cta text-white w49 text-center">Apply</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSebz8SOiH2PrOmqPr6-DI61KbJ03RSFaXABJAaCyk9CWWPsnw/viewform#" target="_blank" class="job-cta w49 text-center">Job Description</a>
                         </div>
                     </div>
                 </div>
@@ -105,8 +105,8 @@
                         <p class="comfortaa fs18 fw600"><img src="images/graduate.png" /> 12th pass/ Graduate</p>
                     
                         <div class="d-flex space-between">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScaF3Ep9FKgZCCRt-MhKRpIK7Ogt4ot5x_hJ6GswrXALgn2rg/viewform" class="apply-cta text-white w49 text-center">Apply</a>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScaF3Ep9FKgZCCRt-MhKRpIK7Ogt4ot5x_hJ6GswrXALgn2rg/viewform" class="job-cta w49 text-center">Job Description</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScaF3Ep9FKgZCCRt-MhKRpIK7Ogt4ot5x_hJ6GswrXALgn2rg/viewform" target="_blank" class="apply-cta text-white w49 text-center">Apply</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScaF3Ep9FKgZCCRt-MhKRpIK7Ogt4ot5x_hJ6GswrXALgn2rg/viewform" target="_blank" class="job-cta w49 text-center">Job Description</a>
                         </div>
                     </div>
                 </div>
@@ -126,8 +126,8 @@
                         <p class="comfortaa fs18 fw600"><img src="images/graduate.png" /> 12th pass/ Graduate</p>
                     
                         <div class="d-flex space-between">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLcvYjdh9Qp_R6R_5_hwi881QLnPSHQW1zRgGOeBCtA0IO_Q/viewform" class="apply-cta text-white w49 text-center">Apply</a>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLcvYjdh9Qp_R6R_5_hwi881QLnPSHQW1zRgGOeBCtA0IO_Q/viewform" class="job-cta w49 text-center">Job Description</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLcvYjdh9Qp_R6R_5_hwi881QLnPSHQW1zRgGOeBCtA0IO_Q/viewform" target="_blank" class="apply-cta text-white w49 text-center">Apply</a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLcvYjdh9Qp_R6R_5_hwi881QLnPSHQW1zRgGOeBCtA0IO_Q/viewform" target="_blank" class="job-cta w49 text-center">Job Description</a>
                         </div>
                     </div>
                 </div>

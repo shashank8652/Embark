@@ -27,7 +27,7 @@
                  <div class="services-content ml40">
                   <h3 class="fs32 fw500 line-height58 poppins mb30">Unlock Your Earning Potential: Why Foreign Languages
                      are the Key to High-Paying Jobs in Europe</h3>
-                     <div class="cta-btn"> <a href="" class="text-center cta-bg">Read More <img src="images/contact-icon.png"></a></div>
+                     <div class="cta-btn"> <a href="blog-details2.php" class="text-center cta-bg">Read More <img src="images/contact-icon.png"></a></div>
                 </div>
             </div>
 
@@ -43,7 +43,7 @@
                  <div class="services-content ml40">
                   <h3 class="fs32 fw500 line-height58 poppins mb30">Navigating the Challenges of Indian Skilled Workers Abroad:
                      Cultural Integration, Recognition of Qualifications, and Visa Regulations</h3>
-                     <div class="cta-btn"> <a href="" class="text-center cta-bg">Read More <img src="images/contact-icon.png"></a></div>
+                     <div class="cta-btn"> <a href="blog-details3.php" class="text-center cta-bg">Read More <img src="images/contact-icon.png"></a></div>
                 </div>
             </div>
 
