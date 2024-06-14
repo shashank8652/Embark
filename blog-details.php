@@ -17,7 +17,7 @@
      positive work environment. However, many European countries grapple with a
      shortage of workers who possess both the necessary technical skills and the ability
      to communicate effectively in languages beyond their native tongue.</p>
-     <p class="fs18 mb15 comfortaa">This language barrier can hinder:</p>
+     <p class="fs18 mb15 brand-color comfortaa fw600">This language barrier can hinder:</p>
 
      <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">Collaboration and Innovation:</span>  When team members struggle to communicate effectively due to language barriers,
          collaboration and information sharing become difficult, hindering innovation and project progress.</p>
@@ -38,23 +38,23 @@
             a significant portion of the Indian workforce is proficient in English, with growing fluency in other European languages like:</p>
 
 
-        <p class="fs18 mb15 comfortaa">German: German is becoming increasingly popular in India due to the growing economic ties between the two nations. Several Indian universities
+        <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">German:</span> German is becoming increasingly popular in India due to the growing economic ties between the two nations. Several Indian universities
              and institutes offer German language courses, catering to the rising demand for German-speaking professionals.</p>
              <p class="fs18 mb15 comfortaa">French: French enjoys a historical and cultural connection with India, with a significant number of Indian professionals demonstrating proficiency in the language. 
                 This opens doors for European companies seeking French-speaking industrial workers.</p>
 
-                <p class="fs18 mb15 comfortaa">Spanish: As the global influence of Spanish increases, the language is gaining traction in India. Educational institutions and private language training centers offer Spanish language courses,
+                <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">Spanish: </span>As the global influence of Spanish increases, the language is gaining traction in India. Educational institutions and private language training centers offer Spanish language courses,
                      expanding the pool of potential bilingual workers.</p>
                      <p class="fs24 brand-color mb20 comfortaa fw600">Why Indian Workers are a Perfect Fit:</p>
                 <p class="fs18 mb15 comfortaa">Several factors make Indian industrial workers with foreign language skills
                      a perfect fit for European companies:</p>
 
-                <p class="fs18 mb15 comfortaa">Strong Technical Skills: India's robust educational system and focus on vocational training produce a skilled workforce well-versed in various industrial disciplines. Engineering colleges, polytechnic institutes,
+                <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">Strong Technical Skills:</span> India's robust educational system and focus on vocational training produce a skilled workforce well-versed in various industrial disciplines. Engineering colleges, polytechnic institutes,
                      and IT training centers equip students with the technical knowledge and practical skills relevant to European industries.</p>
-                     <p class="fs18 mb15 comfortaa">Adaptability and Cultural Sensitivity: Indian culture emphasizes respect, a strong work ethic, and the ability to adapt to new environments. Indian workers are known for their
+                     <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">Adaptability and Cultural Sensitivity:</span> Indian culture emphasizes respect, a strong work ethic, and the ability to adapt to new environments. Indian workers are known for their
                          willingness to learn and integrate into diverse work environments, fostering a positive and collaborative workplace.</p>
 
-                 <p class="fs18 mb15 comfortaa">Cost-Effectiveness: Compared to European counterparts, Indian workers often offer a competitive salary advantage, making them an attractive option for cost-conscious companies. This can be
+                 <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">Cost-Effectiveness:</span> Compared to European counterparts, Indian workers often offer a competitive salary advantage, making them an attractive option for cost-conscious companies. This can be
                      particularly beneficial for companies in sectors facing tight margins or seeking to optimize their talent acquisition strategies.</p>
 
                      <p class="fs24 brand-color mb20 comfortaa fw600">Benefits for European Companies:</p>
@@ -63,29 +63,29 @@
                         a plethora of benefits for European companies:</p>
 
                         <p class="fs18 mb15 comfortaa">Bridging the Skills Gap: These workers readily bridge the existing skills gap, providing access to a qualified talent pool that can contribute significantly to growth and innovation. European companies facing difficulty finding local talent with the necessary skillset and language proficiency can benefit from this readily available resource.</p>
-                        <p class="fs18 mb15 comfortaa">Enhanced Communication and Collaboration: Multilingual employees facilitate smoother communication and collaboration across diverse teams, boosting project efficiency and fostering a more inclusive work environment. 
+                        <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">Enhanced Communication and Collaboration: </span>Multilingual employees facilitate smoother communication and collaboration across diverse teams, boosting project efficiency and fostering a more inclusive work environment. 
                             This can lead to improved problem-solving, better decision-making, and a more positive workplace culture.</p>
 
-                            <p class="fs18 mb15 comfortaa">Access to New Markets: Foreign language skills enable 
+                            <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">Access to New Markets: </span> Foreign language skills enable 
                                 companies to expand their reach into new markets where those languages are dominant. 
                                 This can be particularly beneficial for European companies aiming to tap into the growing economies of Asia,
                                  Africa, and Latin America, where languages like English, Spanish, and French are widely spoken.</p>
 
                                 <p class="fs24 brand-color mb20 comfortaa fw600">Case Studies: Success Stories of Collaboration:</p>
   
-                                <p class="fs18 mb15 comfortaa">1. Siemens in India:<br .>
+                                <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">1. Siemens in India:</span><br .>
                                  Siemens, a leading German multinational conglomerate, has established a strong presence in India for over 170 years.
                                  Recognizing the potential of the Indian workforce, Siemens has invested heavily in skill development initiatives and 
                                  established training centers across India. This commitment has resulted in a skilled pool of Indian engineers and technicians,
                                  many of whom are proficient in German, enabling seamless communication and collaboration with their European counterparts.</p>
 
-                                 <p class="fs18 mb15 comfortaa">2. Airbus and French Language Training:<br />
+                                 <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">2. Airbus and French Language Training:</span><br />
                                   Airbus, the European aerospace giant, recognized the importance of French language proficiency for 
                                   its Indian workforce. The company partnered with a language training institute to offer French language
                                    courses to its Indian employees, enabling them to effectively communicate with colleagues across the globe.
                                     This not only improved collaboration but also fostered a stronger sense of cultural understanding within the diverse workforce.</p>
 
-                                  <p class="fs18 mb15 comfortaa">3. Volkswagen and Cultural Integration:<br />
+                                  <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">3. Volkswagen and Cultural Integration:</span><br />
                                   Volkswagen, the German automobile manufacturer, has a significant presence in India. 
                                   Recognizing the importance of cultural integration, the company offers pre-departure orientation programs 
                                   for Indian employees moving to Germany. These programs equip employees with the necessary cultural knowledge and social 
@@ -95,16 +95,16 @@
                                   <p class="fs18 mb15 comfortaa">While the potential is immense, some challenges need to be 
                                     addressed to ensure a smooth transition for both employers and employees:</p>
 
-                                    <p class="fs18 mb15 comfortaa">Visa Regulations: Streamlining visa processes and procedures can expedite the recruitment and onboarding of skilled Indian workers. While European countries are increasingly implementing initiatives to attract skilled migrants, navigating visa regulations can still be complex and time-consuming. Collaborating with specialized recruitment 
+                                    <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">Visa Regulations:</span> Streamlining visa processes and procedures can expedite the recruitment and onboarding of skilled Indian workers. While European countries are increasingly implementing initiatives to attract skilled migrants, navigating visa regulations can still be complex and time-consuming. Collaborating with specialized recruitment 
                                         agencies experienced in handling international workforce mobility can help ease the process for both employers and employees.</p>
 
-                                        <p class="fs18 mb15 comfortaa">Cultural Integration: Offering pre-departure orientation and
+                                        <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">Cultural Integration:</span> Offering pre-departure orientation and
                                              cultural sensitivity training can help Indian workers adapt to new work environments
                                               and social norms. Understanding cultural differences and fostering intercultural
                                                communication can go a long way in ensuring a positive and inclusive work experience
                                                 for all.</p>      
                                                 
-                                     <p class="fs18 mb15 comfortaa">Language Proficiency: While a strong foundation exists, further language training might be necessary 
+                                     <p class="fs18 mb15 comfortaa"><span class="brand-color uppercaes fw600">Language Proficiency: </span>While a strong foundation exists, further language training might be necessary 
                                         to ensure workers are fully conversant in industry-specific terminology and workplace communication styles. Companies can partner
                                          with language training providers 
                                         to offer targeted training programs that equip employees with the specific language skills required for their roles.</p> 

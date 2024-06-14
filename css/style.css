@@ -684,7 +684,9 @@ ol li{
         .desktop{
           display:block
         }
-
+.bolder{
+  font-weight: 900;
+}
 
         @media screen and (min-width: 1200px) and (max-width: 1400px) {
             .bg-vector-left{
@@ -907,8 +909,31 @@ display: block !important;
 }
 nav .gap-5 {
   gap: 1rem !important;
+  margin-bottom: 30px !important;
 }
 .services-page .up-down {
   padding: 73px 5px;
 }
-      }
+ol li {
+  font-size: 14px;
+  margin-bottom: 13px;
+  font-family: "Comfortaa", sans-serif;
+  line-height: 28px;
+}
+.accordion-item .accordion-header .accordion-button {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 30px !important;
+  padding: 20px 0;
+}
+.accordion-item ul li {
+  font-size: 14px;
+  margin-bottom: 13px;
+  font-family: "Comfortaa", sans-serif;
+  line-height: 28px;
+}
+.show{
+  padding-bottom:20px;
+}
+}

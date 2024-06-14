@@ -34,7 +34,7 @@
             </div>
             <div class="ml-15">
             <h4>Address</h4>
-            <p class="fs18">41 D Pocket A Sukhdev Vihar <br /> New Delhi - 110025</p>
+            <p class="fs18">Co-working &work, Ansal Plaza Mall, <br />1st Floor, Sector – 15A, Faridabad,<br /> Haryana 121007, India</p>
             </div>
             </div>
          <div class="d-flex">
@@ -43,7 +43,7 @@
             </div>
             <div class="ml-15">
             <h4>Phone</h4>
-            <p class="text-black fs18"><a href="tel:+91 9811891120" class="text-decoration text-black fs18">T: +91 9811 891 120</a>  
+            <p class="text-black fs18"><a href="tel:+ 91 70650 11171" class="text-decoration text-black fs18">T: + 91 706 501 1171</a>  
             </p>
             </div>
             
@@ -56,7 +56,7 @@
         <div class="w20">
          <h4 class="mb40 clr uppercaes">company</h4>
         <ul>
-            <li class="mb15"><a href="about-us.php" class="text-decoration text-black fs18">About Us</a></li>
+            <li class="mb15"><a href="about.php" class="text-decoration text-black fs18">About Us</a></li>
             <li class="mb15"><a href="why-us.php" class="text-decoration text-black fs18">Why Us</a></li>
             <li class="mb15"><a href="our-processes.php" class="text-decoration text-black fs18">Our Process</a></li>
             <li class="mb15"><a href="uvp.php" class="text-decoration text-black fs18">UVP</a></li>
@@ -69,7 +69,7 @@
          <h4 class="mb40 clr uppercaes">jobs</h4>
         <ul>
             <li class="mb15"><a href="global-jobs.php" class="text-decoration text-black fs18">Global Jobs</a></li>
-            <li class="mb15"><a href="global-jobs.php" class="text-decoration text-black fs18">Career</a></li>
+            <li class="mb15"><a href="global-jobs.php" class="text-decoration text-black fs18">Career’s at Embarkk</a></li>
         </ul>
         </div>
 
@@ -78,16 +78,16 @@
         <h4 class="mb40 clr uppercaes">Resources</h4>
         <ul>
             <li class="mb15"><a href="services.php" class="text-decoration text-black fs18">Services</a></li>
-            <li class="mb15"><a href="blog-list.php" class="text-decoration text-black fs18">Blog</a></li>
+            <li class="mb15"><a href="blog-list.php" class="text-decoration text-black fs18">Blogs</a></li>
         </ul>
         </div>
 
 
         <div class="mmt-80 w20">
-         <h4 class="mb40 clr uppercaes">FAQ’s</h4>
+         <h4 class="mb40 clr">FAQ’s</h4>
         <ul>
-            <li class="mb15"><a href="us-faq.php" class="text-decoration text-black fs18">USA</a></li>
-            <li class="mb15"><a href="canada-faq.php" class="text-decoration text-black fs18">Canada</a></li>
+            <li class="mb15"><a href="us-faq.php" class="text-decoration text-black fs18">USA non-IT immigration</a></li>
+            <li class="mb15"><a href="canada-faq.php" class="text-decoration text-black fs18">Canada non-IT immigration</a></li>
         </ul>
         </div>
 
@@ -96,8 +96,8 @@
         <div class="w20">
         <h4 class="mb40 clr uppercaes">CONNECT</h4>
         <ul>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Contact Us</a></li>
-            <li class="mb15"><a href="" class="text-decoration text-black fs18">Career</a></li>
+            <li class="mb15"><a href="contact.php" class="text-decoration text-black fs18">Contact Us</a></li>
+            <!-- <li class="mb15"><a href="" class="text-decoration text-black fs18">Career</a></li> -->
         </ul>
         </div>
     </div>

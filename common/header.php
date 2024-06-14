@@ -53,7 +53,7 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="global-jobs.php">Global Jobs</a></li>
-            <li><a class="dropdown-item" href="career.php">Career in Embark</a></li>
+            <li><a class="dropdown-item" href="career.php">Career’s at Embarkk  </a></li>
             </ul>
         </li>
         <li class="nav-item dropdown">
@@ -66,9 +66,9 @@
             FAQ's
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="faq.php">Embark FAQ</a></li>
+            <li><a class="dropdown-item" href="faq.php">General FAQs</a></li>
             <li><a class="dropdown-item" href="us-faq.php">USA NON-IT WORKERS IMMIGRATION</a></li>
-            <li><a class="dropdown-item" href="canada-faq.php">USA NON-IT WORKERS IMMIGRATION</a></li>
+            <li><a class="dropdown-item" href="canada-faq.php">CANADA NON-IT WORKERS IMMIGRATION</a></li>
           </ul>
         </li>
       </ul>
