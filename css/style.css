@@ -598,6 +598,24 @@ ol li {
 .height150 {
   height: 150px;
 }
+.career-box{
+  color: #000;
+  background: #fff;
+  border: 0.2px solid #fff;
+  padding: 18px;
+  margin-bottom: 30px;
+}
+.career-box p{
+  margin-bottom: 0 !important;
+}
+.career-pd{
+  padding:0 36px;
+}
+.w-700{
+  width:700px;
+  margin: auto;
+  display: block;
+}
 /* footer css */
 /* .w20{
             width:20%;

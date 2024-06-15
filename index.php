@@ -57,8 +57,8 @@
 
 <section class="brand-bg pd-100">
   <div class="container">
-    <h1 class="text-center text-white uppercaes poppins fs40">Embarkk's Values</h1>
-    <div class="row pd70">
+    <h1 class="text-center text-white uppercaes poppins fs40 wow animate__animated animate__fadeInUp">Embarkk's Values</h1>
+    <div class="row pd70 wow animate__animated animate__fadeInUp">
           <div class="col-md-4">
             <div class="bg-white pd border-radius20 box-shadow">
               <figure>
@@ -133,7 +133,7 @@
           </div>
          </div>
 
-        <div class="cta-btn text-center"> 
+        <div class="cta-btn text-center wow animate__animated animate__fadeInUp"> 
           <a href="about.php" class="text-center cta-transparent">Know More</a>
         </div>
   </div>
@@ -145,13 +145,13 @@
 <section class="pd-100 relative">
     <img src="images/emberk-services.png" class="emberk-services">
   <div class="container">
-    <h1 class="text-center uppercaes poppins fs50 mb40">EMbarkk’s services</h1>
+    <h1 class="text-center uppercaes poppins fs50 mb40 wow animate__animated animate__fadeInUp">EMbarkk’s services</h1>
     <div class="row d-flex align-center mb40">
-     <div class="col-md-5">
+     <div class="col-md-5 wow animate__animated animate__fadeInLeft">
       <img src="images/practice.png" class="img-fluid mb20">
      </div>
 
-     <div class="col-md-7">
+     <div class="col-md-7 wow animate__animated animate__fadeInRight">
          <div class="ml50">
                <h3 class="fs32 fw500 line-height42 poppins mb40">Foreign Language Training</h3>
                <div class="d-flex align-center mb30">
@@ -184,11 +184,8 @@
   <img src="images/skilled.png" class="emberk-services1">
   <div class="container">
     <div class="row d-flex align-center mb40">
-     <div class="col-md-5">
-     
-           
-
-                <img src="images/skilled1.png" class="img-fluid mobile mb20">
+     <div class="col-md-5 wow animate__animated animate__fadeInLeft">
+         <img src="images/skilled1.png" class="img-fluid mobile mb20">
                 <h3 class="fs32 fw500 line-height42 poppins mb40">Skilled Workforce Recruitment</h3>
                <div class="d-flex align-center mb30">
                   <span class="pdright15"><img src="images/targeted-icon.png" class="w40"/></span>
@@ -206,7 +203,7 @@
                 </div>
              </div>
      
-     <div class="col-md-7">
+     <div class="col-md-7 wow animate__animated animate__fadeInRight">
       <div class="ml50">
        <img src="images/skilled1.png" class="img-fluid desktop">
       </div>
@@ -220,11 +217,11 @@
 <img src="images/visa-travels-bg.png" class="emberk-services">
 <div class="container">
 <div class="row d-flex align-center">
-     <div class="col-md-5">
+     <div class="col-md-5 wow animate__animated animate__fadeInLeft">
       <img src="images/visa-and-travels.png" class="img-fluid mb30">
      </div>
 
-     <div class="col-md-7">
+     <div class="col-md-7 wow animate__animated animate__fadeInRight">
       <div class="ml50">
                <h3 class="fs32 fw500 line-height42 poppins mb40">Visa & Travel Assistance</h3>
                <div class="d-flex align-center mb30">
@@ -248,7 +245,7 @@
    </div>
   </div>
 </div>
-  <div class="cta-btn text-center mt60">
+  <div class="cta-btn text-center mt60 wow animate__animated animate__fadeInUp">
    <a href="services.php" class="text-center cta-bg">Know More</a>
   </div>
 </section>
@@ -259,8 +256,8 @@
 
 <section class="brand-bg pd-100">
   <div class="container">
-    <h1 class="text-center text-white uppercaes poppins fs40">Unique Value Proposition (UVP)</h1>
-    <div class="row pd70">
+    <h1 class="text-center text-white uppercaes poppins fs40 wow animate__animated animate__fadeInUp">Unique Value Proposition (UVP)</h1>
+    <div class="row pd70 wow animate__animated animate__fadeInUp">
           <div class="col-md-4">
           <a href="uvp.php" class="text-decoration text-black">
             <div class="bg-uvp pd border-radius20 box-shadow height330">
@@ -307,8 +304,8 @@
 
 <section class="pd-100">
   <div class="container">
-    <h1 class="text-center uppercaes poppins fs40">Why Us?</h1>
-    <div class="row pd70">
+    <h1 class="text-center uppercaes poppins fs40 wow animate__animated animate__fadeInUp">Why Us?</h1>
+    <div class="row pd70 wow animate__animated animate__fadeInUp">
           <div class="col-md-4">
           <a href="why-us.php" class="text-decoration text-black">
             <div class="bg-white pd border-radius20 box-shadow">
@@ -373,7 +370,7 @@
           </div>
          </div>
 
-        <div class="cta-btn text-center"> <a href="why-us.php" class="text-center cta-bg">Know More</a></div>
+        <div class="cta-btn text-center wow animate__animated animate__fadeInUp"> <a href="why-us.php" class="text-center cta-bg">Know More</a></div>
   </div>
 </section>
 
@@ -381,9 +378,9 @@
 
 <section class="relative pd-100 brand-bg">
     <div class="container">
-         <h2 class="fs40 uppercaes text-white text-center pb50">Explore global jobs</h2>
+         <h2 class="fs40 uppercaes text-white text-center pb50 wow animate__animated animate__fadeInUp">Explore global jobs</h2>
         
-         <div class="row gx-5">
+         <div class="row gx-5 wow animate__animated animate__fadeInUp">
             <div class="col-md-4">
                 <div class="global-jobs bg-white border-radius20 mb20">
                     <img src="images/hospitality.png" class="w100 mb15 border-radius20"/>
@@ -455,8 +452,8 @@
 
 <section class="pd70">
   <div class="container">
-    <h1 class="text-center uppercaes poppins fs40">Blogs</h1>
-    <div class="row pd70">
+    <h1 class="text-center uppercaes poppins fs40 wow animate__animated animate__fadeInUp">Blogs</h1>
+    <div class="row pd70 wow animate__animated animate__fadeInUp">
           <div class="col-md-4">
              <div class="home-blog mb20">
                 <a href="blog-details.php" class="text-decoration text-black">
