@@ -38,7 +38,7 @@
         </div>
     </div>
     </div> -->
-        <div class="w-900">
+        <div class="w-955">
             <h2 class="fs45 uppercaes mb30 text-center wow animate__animated animate__fadeInUp">Who we are?</h2>
             <p class="fs20 text-center Comfortaa wow animate__animated animate__fadeInUp">We at Embarkk Consulting,
                 specialize in crafting bespoke
@@ -104,7 +104,7 @@
 
 <section class="relative pd70 bg-white">
     <div class="container">
-        <h2 class="fs45 uppercaes text-center pb50 wow animate__animated animate__fadeInUp">Ethical Recruitment Practices</h2>
+        <h2 class="fs45 uppercaes text-center mb70 wow animate__animated animate__fadeInUp">Ethical Recruitment Practices</h2>
         <div class="row align-center">
             <div class="col-md-6 wow animate__animated animate__fadeInLeft">
                 <div class="d-flex mb30">
@@ -151,7 +151,7 @@
 
 <section class="brand-bg relative text-white pd70">
     <div class="container">
-        <h2 class="fs45 uppercaes text-center pb50 wow animate__animated animate__fadeInUp">Fair Treatment for All</h2>
+        <h2 class="fs45 uppercaes text-center mb70 wow animate__animated animate__fadeInUp">Fair Treatment for All</h2>
         <div class="row align-center">
             <div class="col-md-6">
                 <div class="bg-vector-left"></div>
@@ -195,7 +195,7 @@
 
 <section class="relative pd70 bg-white">
     <div class="container">
-        <h2 class="fs45 uppercaes text-center pb50 wow animate__animated animate__fadeInUp">Creating a Positive Experience</h2>
+        <h2 class="fs45 uppercaes text-center mb70 wow animate__animated animate__fadeInUp">Creating a Positive Experience</h2>
         <div class="row align-center">
             <div class="col-md-6 wow animate__animated animate__fadeInLeft">
                 <div class="d-flex mb30">

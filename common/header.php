@@ -57,7 +57,7 @@
             <li><a class="dropdown-item" href="career.php">Career’s at Embarkk  </a></li>
             </ul>
         </li>
-        <li class="nav-item dropdown">
+        <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Resources
           </a>
@@ -65,7 +65,21 @@
             <li><a class="dropdown-item" href="services.php">Services</a></li>
             <li><a class="dropdown-item" href="blog-list.php">Blogs  </a></li>
             </ul>
+        </li> -->
+
+        <li class="nav-item dropdown">
+          <a class="nav-link" href="services.php" aria-expanded="false">
+            Services
+          </a>
         </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link" href="blog-list.php" aria-expanded="false">
+            Blogs
+          </a>
+        </li>
+
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             FAQ's

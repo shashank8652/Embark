@@ -67,17 +67,17 @@
                 <h3 class="fs22 fw500 line-height42 poppins mb20">Ethical Recruitment Practices</h3>
                 <div class="d-flex align-center mb20">
                   <span class="pdright15"><img src="images/user.png" class="w36"/></span>
-                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">Transparency</p>
+                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Transparency</p>
                 </div>
 
                 <div class="d-flex align-center mb20">
                   <span class="pdright15"><img src="images/diversity.png" class="w36"/></span>
-                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">Diversity and Inclusion</p>
+                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Diversity and Inclusion</p>
                 </div>
 
                 <div class="d-flex align-center">
                   <span class="pdright15"><img src="images/labour-law.png" class="w36"/></span>
-                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">Compliance with Labor Laws</p>
+                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Compliance with Labor Laws</p>
                 </div>
             </div>
           </div>
@@ -92,17 +92,17 @@
                 <h3 class="fs22 fw500 line-height42 poppins mb20">Fair Treatment for All</h3>
                 <div class="d-flex align-center mb20">
                   <span class="pdright15"><img src="images/respectful.png" class="w36"/></span>
-                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">Respectful Communication</p>
+                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Respectful Communication</p>
                 </div>
 
                 <div class="d-flex align-center mb20">
                   <span class="pdright15"><img src="images/equal-oppertunity.png" class="w36"/></span>
-                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">Equal Opportunity</p>
+                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Equal Opportunity</p>
                 </div>
 
                 <div class="d-flex align-center">
                   <span class="pdright15"><img src="images/competitive-compensation.png" class="w36"/></span>
-                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">Competitive Compensation</p>
+                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Competitive Compensation</p>
                 </div>
             </div>
           </div>
@@ -116,18 +116,18 @@
                 <h3 class="fs22 fw500 line-height42 poppins mb20">Creating a Positive Experience</h3>
                 <div class="d-flex align-center mb20">
                   <span class="pdright15"><img src="images/clear-communication.png" class="w36"/></span>
-                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">Clear Communication</p>
+                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Clear Communication</p>
                 </div>
 
                 <div class="d-flex align-center mb20">
                   <span class="pdright15"><img src="images/supportive-evs.png" class="w36"/></span>
-                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">Supportive Environment</p>
+                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Supportive Environment</p>
                 </div>
 
                 <div class="d-flex align-center">
                   <span class="pdright15">
                     <img src="images/transition.png" class="w36"/></span>
-                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">Seamless Transition</p>
+                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Seamless Transition</p>
                 </div>
             </div>
           </div>
@@ -145,7 +145,7 @@
 <section class="pd-100 relative">
     <img src="images/emberk-services.png" class="emberk-services">
   <div class="container">
-    <h1 class="text-center uppercaes poppins fs50 mb40 wow animate__animated animate__fadeInUp">EMbarkk’s services</h1>
+    <h1 class="text-center uppercaes poppins fs50 mb70 wow animate__animated animate__fadeInUp">EMbarkk’s services</h1>
     <div class="row d-flex align-center mb40">
      <div class="col-md-5 wow animate__animated animate__fadeInLeft">
       <img src="images/practice.png" class="img-fluid mb20">
@@ -205,7 +205,7 @@
      
      <div class="col-md-7 wow animate__animated animate__fadeInRight">
       <div class="ml50">
-       <img src="images/skilled1.png" class="img-fluid desktop">
+       <img src="images/skilled1.png" class="w80 desktop">
       </div>
      </div>
     </div>
@@ -264,7 +264,7 @@
               <figure>
                 <img src="images/conditinal-icon.png" class="w60"/>
               </figure>
-                <h3 class="fs22 fw500 line-height42 poppins mb15">Conditional Employment</h3>
+                <h3 class="fs22 fw500 line-height33 poppins mb15">Conditional Employment</h3>
                 <p class="fs18">We offer a unique advantage - conditional offer letters from employers at the beginning
                    of the process, providing security and motivation for candidates.</p>
             </div>
@@ -279,7 +279,7 @@
               <figure>
                 <img src="images/reduced-cost-icon.png" class="w60"/>
               </figure>
-                <h3 class="fs22 fw500 line-height42 poppins mb15">Reduced Cost & Increased Efficiency</h3>
+                <h3 class="fs22 fw500 line-height33 poppins mb15">Reduced Cost & Increased Efficiency</h3>
                 <p class="fs18">Our streamlined process saves you time and money compared to traditional recruitment methods.</p>
              </div>
           </a>
@@ -292,7 +292,7 @@
               <figure>
                 <img src="images/diverse-and-qualified-talent-pool-icon.png" class="w60"/>
               </figure>
-                <h3 class="fs22 fw500 line-height42 poppins mb15">Diverse & Qualified Talent Pool</h3>
+                <h3 class="fs22 fw500 line-height33 poppins mb15">Diverse & Qualified Talent Pool</h3>
                 <p class="fs18">Access a broader pool of talented individuals with the language skills critical for your business success.</p>
             </div>
           </div>
@@ -312,7 +312,7 @@
               <figure>
                 <img src="images/expert-lauguage-training.png" width="100%" class="border-radius20"/>
               </figure>
-                <h3 class="fs22 fw500 line-height42 poppins mb20">Expert Language Training</h3>
+                <h3 class="fs22 fw500 line-height33 poppins mb20">Expert Language Training</h3>
                 <div class="d-flex align-center mb20">
                   <span class="pdright15"><img src="images/qualified-instuructors-icon.png" class="w36"/></span>
                   <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Qualified Instructors</p>
@@ -334,7 +334,7 @@
               <figure>
                 <img src="images/comprehensive-support.png" width="100%" class="border-radius20"/>
               </figure>
-                <h3 class="fs22 fw500 line-height42 poppins mb20">Comprehensive Support</h3>
+                <h3 class="fs22 fw500 line-height33 poppins mb20">Comprehensive Support</h3>
                 <div class="d-flex align-center mb20">
                   <span class="pdright15"><img src="images/end-to-end-guidance-icon.png" class="w36"/></span>
                   <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">End-to-End Guidance</p>
@@ -355,7 +355,7 @@
               <figure>
                 <img src="images/reduced-compliance-risks.png" width="100%" class="border-radius20"/>
               </figure>
-                <h3 class="fs22 fw500 line-height42 poppins mb20">Reduced Compliance Risks</h3>
+                <h3 class="fs22 fw500 line-height33 poppins mb20">Reduced Compliance Risks</h3>
                 <div class="d-flex align-center mb20">
                   <span class="pdright15"><img src="images/experince-visa-team-icon.png" class="w36"/></span>
                   <p class="margin-bottom-0 comfortaa fw500 line-height33 fs18">Experienced Visa Team</p>
@@ -378,9 +378,9 @@
 
 <section class="relative pd-100 brand-bg">
     <div class="container">
-         <h2 class="fs40 uppercaes text-white text-center pb50 wow animate__animated animate__fadeInUp">Explore global jobs</h2>
+         <h2 class="fs40 uppercaes text-white text-center mb70 wow animate__animated animate__fadeInUp">Explore global jobs</h2>
         
-         <div class="row gx-5 wow animate__animated animate__fadeInUp">
+         <div class="row gx-5 wow animate__animated animate__fadeInUp pb50">
             <div class="col-md-4">
                 <div class="global-jobs bg-white border-radius20 mb20">
                     <img src="images/hospitality.png" class="w100 mb15 border-radius20"/>
@@ -446,6 +446,7 @@
 
 
          </div>
+         <div class="cta-btn text-center"> <a href="global-jobs.php" class="text-center cta-transparent">Know More</a></div>
     </div>
 </section>
 

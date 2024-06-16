@@ -57,7 +57,7 @@
             <div class="col-md-4">
                 <div class="bg-white pd border-radius20 box-shadow height150">
                     <h3 class="fs22 fw500 line-height42 poppins">Address</h3>
-                    <p class="fs16">Co-working &work, Ansal Plaza Mall, 1st Floor, Sector – 15A, Faridabad, Haryana
+                    <p class="fs16">&work Co-working, Ansal Plaza Mall, 1st Floor, Sector – 15A, Faridabad, Haryana
                         121007, India</p>
                 </div>
             </div>

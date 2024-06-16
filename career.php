@@ -36,7 +36,7 @@
 
 <section class="brand-bg relative text-white pd70">
     <div class="container">
-        <h2 class="fs45 uppercaes text-center pb50"> Find your dream job</h2>
+        <h2 class="fs45 uppercaes text-center mb70"> Find your dream job</h2>
 
         <div class="row career-pd align-items">
             <div class="col-md-4">
@@ -112,7 +112,7 @@
 <section class="relative pd70">
     <div class="container">
         <div class="w-700">
-            <h2 class="fs45 uppercaes text-center pb50 wow animate__ animate__fadeInUp animated">Send us your
+            <h2 class="fs45 uppercaes text-center mb70 wow animate__ animate__fadeInUp animated">Send us your
                 details, and we'll be in touch.</h2>
                 
                 <form>

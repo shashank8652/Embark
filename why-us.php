@@ -97,7 +97,7 @@
 
 <section class="relative pd70">
     <div class="container">
-    <h2 class="fs45 uppercaes text-center pb50">Comprehensive Support</h2>
+    <h2 class="fs45 uppercaes text-center mb70">Comprehensive Support</h2>
     <div class="row align-center">
     <div class="col-md-6">
     <div class="bg-vector-comprehensive"></div>
@@ -139,7 +139,7 @@
 
 <section class="brand-bg pd-100">
   <div class="container">
-    <h1 class="text-center uppercaes poppins text-white fs40 pb50">Expert Language Training</h1>
+    <h1 class="text-center uppercaes poppins text-white fs40 mb70">Expert Language Training</h1>
     <div class="row">
           <div class="col-md-4">
             <div class="bg-white pd border-radius20 box-shadow height530">

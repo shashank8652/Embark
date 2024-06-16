@@ -2,7 +2,7 @@
 
 <section class="relative pd-100">
     <div class="container">
-         <h2 class="fs40 uppercaes text-center pb50">Explore global jobs</h2>
+         <h2 class="fs40 uppercaes text-center mb70">Explore global jobs</h2>
         
          <div class="row gx-5">
             <div class="col-md-4 mb-5">

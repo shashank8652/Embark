@@ -3,7 +3,7 @@
 
 <section class="relative pd-100">
     <div class="container">
-         <h2 class="fs40 uppercaes text-center pb50">Recognitions</h2>
+         <h2 class="fs40 uppercaes text-center mb70">Recognitions</h2>
         
          <div class="row gx-5 d-flex align-center mb100">
            

@@ -1,5 +1,5 @@
 <div class="flot_popup wow animate__animated animate__fadeInRight">
-    <img src="images/job.png" data-bs-toggle="modal" data-bs-target="#myModal" class="w90" />
+    <img src="images/job.jpg" data-bs-toggle="modal" data-bs-target="#myModal" class="w90" />
 </div>
 
 
@@ -36,7 +36,7 @@
                         </div>
                         <div class="ml-15">
                             <h4>Address</h4>
-                            <p class="fs18">Co-working &work, Ansal Plaza Mall, <br />1st Floor, Sector – 15A,
+                            <p class="fs18">&work Co-working, Ansal Plaza Mall, <br />1st Floor, Sector – 15A,
                                 Faridabad,<br /> Haryana 121007, India</p>
                         </div>
                     </div>
