@@ -5,25 +5,25 @@
         <div class="row align-center">
             <div class="col-md-7">
                 <h3 class="fs32 fw500 line-height58 poppins mb30">Contact Us</h3>
-                <form>
+                <form id="contactForm">
                     <div class="row">
                         <div class="form-group col-md-12 mb-4">
-                            <input type="text" class="form-control" placeholder="Full Name">
+                            <input type="text" name="fullname" class="form-control" placeholder="Full Name">
                         </div>
 
                     </div>
 
                     <div class="row">
                         <div class="form-group col-md-6 mb-4">
-                            <input type="email" class="form-control" placeholder="Email ID">
+                            <input type="email" name="email" class="form-control" placeholder="Email ID">
                         </div>
                         <div class="form-group col-md-6 mb-4">
-                            <input type="text" class="form-control" placeholder="Phone Number">
+                            <input type="text" name="phone" class="form-control" placeholder="Phone Number">
                         </div>
                     </div>
 
                     <div class="form-group mb-4">
-                        <select class="form-select" aria-label="Default select example">
+                        <select class="form-select" name="select" >
                             <!-- <option selected >Open this select menu</option> -->
                             <option selected value="Are you an employer looking to hire candidates?">Are you an employer
                                 looking to hire candidates?</option>
@@ -32,10 +32,10 @@
                         </select>
                     </div>
                     <div class="form-group mb-4">
-                        <textarea class="form-control" rows="3" placeholder="Type a message*"></textarea>
+                        <textarea class="form-control" name="meesage" rows="3" placeholder="Type a message*"></textarea>
                     </div>
                     <div class="cta-btn">
-                        <button type="submit" class="text-center cta-bg">Submit <img
+                        <button type="submit" name="submit" class="text-center cta-bg">Submit <img
                                 src="images/contact-icon.png"></button>
                     </div>
                 </form>
@@ -82,5 +82,34 @@
     </div>
 </section>
 
-
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src = "https://ajax.aspnetCDN.com/ajax/jQuery/jQuery-1.9.0.min.js"></script>
+<script> 
+$('#contactForm').on('submit', function(e){
+    e.preventDefault(); 
+            //$("#loader").show();
+            // shows the loading screen
+            window.swal({
+              title: "Loading...",
+              text: "Please wait",
+              //imageUrl: "images/loading.gif",
+              showConfirmButton: false,
+              allowOutsideClick: false
+            });
+            
+     var data = new FormData(this); 
+     $.ajax({ 
+        type:"POST", 
+        url:"mail.php", 
+        data:data,
+        contentType:false,
+        cache:false,
+        processData:false,
+        success:function(response){ console.log(response); 
+        swal({text:'Thank you for contacting us. One of our team members will contact you shortly.',
+        icon: "success", button: "Ok!" });
+        window.setTimeout(function(){
+    location.reload() },3000) }
+    }) }) 
+</script>
 <?php include('common/footer.php') ?>

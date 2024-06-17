@@ -305,6 +305,9 @@ optgroup {
   left: 0;
   top: 0;
 }
+button img{
+  margin-top:-3px;
+}
 .relative {
   position: relative;
 }

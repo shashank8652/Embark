@@ -149,20 +149,32 @@
             <!-- Modal body -->
             <div class="modal-body">
 
-                <form>
+                <form id="contactForm1">
                     <div class="mb-3">
-                        <label for="exampleInputEmail1" class="form-label">Email address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                        <input type="text" name="fullname" class="form-control" placeholder="Full Name">
                     </div>
+
                     <div class="mb-3">
-                        <label for="exampleInputPassword1" class="form-label">Password</label>
-                        <input type="password" class="form-control" id="exampleInputPassword1">
+                        <input type="email" name="email" class="form-control" placeholder="email">
                     </div>
-                    <div class="mb-3 form-check">
-                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+
+                    <div class="mb-3">
+                        <input type="tel" name="phone" class="form-control" placeholder="Phone No.">
                     </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    
+                    <div class="mb-3">
+                    <label class="w-full block mb-1 text-center text-xs uppercase  text-black font-bold form-control">
+                    Upload resume
+
+                    <input type="file" name="file" class="form-control" placeholder="Uplade Resume" accept="application/pdf" hidden>
+                </label>
+
+                    </div>
+
+                    <div class="cta-btn">
+                        <button type="submit" class="text-center cta-bg">Submit <img
+                                src="images/contact-icon.png"></button>
+                    </div>
                 </form>
             </div>
 
@@ -182,7 +194,36 @@
 
 
 
-
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src = "https://ajax.aspnetCDN.com/ajax/jQuery/jQuery-1.9.0.min.js"></script>
+<script> 
+$('#contactForm1').on('submit', function(e){
+    e.preventDefault(); 
+            //$("#loader").show();
+            // shows the loading screen
+            window.swal({
+              title: "Loading...",
+              text: "Please wait",
+              //imageUrl: "images/loading.gif",
+              showConfirmButton: false,
+              allowOutsideClick: false
+            });
+            
+     var data = new FormData(this); 
+     $.ajax({ 
+        type:"POST", 
+        url:"mail.php", 
+        data:data,
+        contentType:false,
+        cache:false,
+        processData:false,
+        success:function(response){ console.log(response); 
+        swal({text:'Thank you for contacting us. One of our team members will contact you shortly.',
+        icon: "success", button: "Ok!" });
+        window.setTimeout(function(){
+    location.reload() },3000) }
+    }) }) 
+</script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 
