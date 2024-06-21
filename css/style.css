@@ -91,7 +91,9 @@ p {
   right: 28px;
   background-repeat: no-repeat;
 }
-
+.w120{
+  width: 120px;
+}
 .qoute {
   display: inline-block;
   position: relative;

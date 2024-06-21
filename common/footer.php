@@ -1,5 +1,5 @@
 <div class="flot_popup wow animate__animated animate__fadeInRight">
-    <img src="images/job.jpg" data-bs-toggle="modal" data-bs-target="#myModal" class="w90" />
+    <img src="images/job.png" data-bs-toggle="modal" data-bs-target="#myModal" class="w120" />
 </div>
 
 
