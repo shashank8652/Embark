@@ -36,7 +36,7 @@
                         </div>
                         <div class="ml-15">
                             <h4>Address</h4>
-                            <p class="fs18">&work Co-working, Ansal Plaza Mall, <br />1st Floor, Sector – 15A,
+                            <p class="fs16">&work Co-working, Ansal Plaza Mall, <br />1st Floor, Sector – 15A,
                                 Faridabad,<br /> Haryana 121007, India</p>
                         </div>
                     </div>
@@ -46,7 +46,7 @@
                         </div>
                         <div class="ml-15">
                             <h4>Phone</h4>
-                            <p class="text-black fs18"><a href="tel:+ 91 70650 11171"
+                            <p class="text-black fs16"><a href="tel:+ 91 70650 11171"
                                     class="text-decoration text-black fs18">T: + 91 706 501 1171</a>
                             </p>
                         </div>
@@ -98,10 +98,10 @@
                         <div class="mmt-80 w20">
                             <h4 class="mb40 clr">FAQ’s</h4>
                             <ul>
-                                <li class="mb15"><a href="us-faq.php" class="text-decoration text-black fs18">USA non-IT
+                                <li class="mb15"><a href="us-faq.php" class="text-decoration text-black fs18">USA non-IT <br />
                                         immigration</a></li>
-                                <li class="mb15"><a href="canada-faq.php" class="text-decoration text-black fs18">Canada
-                                        non-IT immigration</a></li>
+                                <li class="mb15"><a href="canada-faq.php" class="text-decoration text-black fs18">Canada 
+                                        non-IT<br /> immigration</a></li>
                             </ul>
                         </div>
 

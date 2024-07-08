@@ -141,7 +141,7 @@
                             <input type="url" class="form-control" placeholder="LinkedIn URL*">
                         </div>
                         <div class="form-group col-md-6 mb-4">
-                            <input type="url" class="form-control" placeholder="Portfolio / GitHub URL*">
+                            <input type="url" class="form-control" placeholder="Portfolio / GitHub URL">
                         </div>
                     </div>
 

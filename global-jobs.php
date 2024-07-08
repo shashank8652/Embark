@@ -10,7 +10,7 @@
                     <img src="images/hospitality.png" class="w100 mb15 border-radius20"/>
 
                     <div class="global-content">
-                        <p class="fs22 poppins mb15 fw500">Food processing</p>
+                        <p class="fs22 poppins mb15 fw500">Hospitality</p>
                         <div class="d-flex space-between mb15">
                             <span class="comfortaa fs18 fw600"><img src="images/global-location.png" /> Germany</span>
 
@@ -32,7 +32,7 @@
                     <img src="images/food-processing.png" class="w100 mb15 border-radius20"/>
 
                     <div class="global-content">
-                        <p class="fs22 poppins mb15 fw500">Hospitality</p>
+                        <p class="fs22 poppins mb15 fw500">Food processing</p>
                         <div class="d-flex space-between mb15">
                             <span class="comfortaa fs18 fw600"><img src="images/global-location.png" /> Germany</span>
 

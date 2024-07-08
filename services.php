@@ -137,7 +137,7 @@
 
 <section class="brand-bg pd-100">
   <div class="container">
-    <h1 class="text-center text-white uppercaes poppins fs40 mb70">Visa’s Travel Assistance</h1>
+    <h1 class="text-center text-white uppercaes poppins fs40 mb70">Visa Travel Assistance</h1>
     <div class="row">
           <div class="col-md-4">
             <div class="bg-white pd border-radius20 box-shadow height330">
