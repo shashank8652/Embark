@@ -19,9 +19,10 @@
     <div class="container">
         <div class="row align-center">
             <div class="col-md-6">
-                <div class="up-down">
+                <!-- <div class="up-down">
                   <h1 class="poppins uppercaes fs">Why Choose Embarkk Consulting</h1>
-                </div>
+                </div> -->
+                <h1 class="fs90 text-center lnheight">WHY <br /><span class="brand-color fs230">US</span> </h1>
             </div>
 
             <div class="col-md-6">

@@ -4,18 +4,19 @@
     <div class="container">
         <div class="row align-center">
             <div class="col-md-6">
-                <div class="up-down">
+                <!-- <div class="up-down">
                     <h1 class="poppins uppercaes fs">Bridging the<br />
                         <span class="brand-color">Language Gap </span><br />
                         and Building <br />
                         <span class="brand-color"> Global Teams</span>
                     </h1>
-                </div>
+                </div> -->
+                <h1 class="fs90 text-center lnheight">ABOUT <br /><span class="brand-color fs230">US</span> </h1>
             </div>
 
             <div class="col-md-6">
                 <div class="bg-vector"></div>
-                <img src="images/hola.png" class="hola-img" alt="Hola Banner Image">
+                <img src="images/aboutus.png" class="w100" alt="Hola Banner Image">
             </div>
         </div>
     </div>
