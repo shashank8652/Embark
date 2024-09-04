@@ -379,6 +379,7 @@ button img{
 .hola-img {
   width: 90%;
   float: right;
+  height: 508px;
 }
 .align-center {
   align-items: center;
@@ -450,6 +451,11 @@ button img{
 .fs16 {
   font-size: 16px;
 }
+
+.fs14 {
+  font-size: 14px;
+}
+
 .fs40 {
   font-size: 40px;
 }

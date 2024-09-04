@@ -19,11 +19,13 @@
                 <img src="images/footer-logo.png" class="mobile-logo" width="150px" alt="Embarkk Logo">
 
                 <ul class="d-flex mt50">
-                    <li class="border-left pdleft10 h40"><a href="" class="text-decoration text-black fs18"><img
+                    <li class="border-left pdleft10 h40"><a href="https://www.linkedin.com/company/embarkk-consulting/" class="text-decoration text-black fs18" target="_blank"><img
                                 src="images/linkedin.png" class="w25"></a></li>
-                    <li class="border-left pdleft10 h40"><a href="" class="text-decoration text-black fs18"><img
+                    <li class="border-left pdleft10 h40"><a href="https://www.instagram.com/embarkk_digital" class="text-decoration text-black fs18" target="_blank"><img
                                 src="images/instagram.png" class="w25"></a></li>
-                    <li class="pdleft10"><a href="" class="text-decoration text-black fs18"><img src="images/x.png"
+                                <li class="border-left pdleft10 h40"><a href="https://www.facebook.com/profile.php?id=61560839227735&mibextid=ZbWKwL" class="text-decoration text-black fs18" target="_blank"><img src="images/facebook.png"
+                                class="w25"></a></li>
+                    <li class="pdleft10"><a href="https://youtube.com/@embarkkdigital?si=n0lzz4Ai-HC84VQ1" class="text-decoration text-black fs18" target="_blank"><img src="images/youtube.png"
                                 class="w25"></a></li>
                 </ul>
             </div>

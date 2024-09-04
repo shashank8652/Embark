@@ -40,70 +40,47 @@
 
         <div class="row career-pd align-items">
             <div class="col-md-4">
-                <a href="career-detail.php" class="text-black text-decoration wow animate__ animate__fadeInUp animated">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc6q1aq2SgsxkxfQKbJWdqqNMS4txw4-ZcNG0856TBN054-A/viewform" class="text-black text-decoration wow animate__ animate__fadeInUp animated" target="_blank">
                     <div class="career-box">
                         <div class="d-flex space-between">
-                            <h3 class="cinzel fs22">Sr. UX Designer</h3>
+                            <h3 class="cinzel fs22">Inside Sales Executive</h3>
                             <img src="https://unideskpartners.com/public/frontend/images/arrow-right.svg" width="36"
                                 height="36">
                         </div>
-                        <p class="location">Delhi</p>
+                        <p class="cinzel fs14"> Global Mobility & International Recruitment  </p>
+                        <p class="location fs14">Faridabad(Delhi/NCR)</p>
                     </div>
                 </a>
             </div>
 
             <div class="col-md-4">
-                <a href="career-detail.php" class="text-black text-decoration wow animate__ animate__fadeInUp animated">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScrFKhT1qXBFm8sJFH9hAqK-966jBpFRNj69r6Uw4ySj3DrwA/viewform" class="text-black text-decoration wow animate__ animate__fadeInUp animated" target="_blank">
                     <div class="career-box">
                         <div class="d-flex space-between">
-                            <h3 class="cinzel fs22">Project Co-ordinator</h3>
+                            <h3 class="cinzel fs22">Junior Recruitment Specialist</h3>
+                            
                             <img src="https://unideskpartners.com/public/frontend/images/arrow-right.svg" width="36"
                                 height="36">
                         </div>
-                        <p class="location">NewYork</p>
+                        <p class="cinzel fs14">International Assignments</p>
+                        <p class="location fs14">Faridabad(Delhi/NCR)</p>
                     </div>
                 </a>
             </div>
 
             <div class="col-md-4">
-                <a href="career-detail.php" class="text-black text-decoration wow animate__ animate__fadeInUp animated">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAwzdbTMpHXlD53WVxBz2wYRVopgcR96TQzcIoTKx9_mWeYw/viewform" class="text-black text-decoration wow animate__ animate__fadeInUp animated" target="_blank">
                     <div class="career-box">
                         <div class="d-flex space-between">
-                            <h3 class="cinzel fs22">Front-End Developer</h3>
+                            <h3 class="cinzel fs22">Inside Sales Manager</h3>
                             <img src="https://unideskpartners.com/public/frontend/images/arrow-right.svg" width="36"
                                 height="36">
                         </div>
-                        <p class="location">London</p>
+                        <p class="cinzel fs14">International Recruitment & Global Mobility</p>
+                        <p class="location fs14">Faridabad(Delhi/NCR)</p>
                     </div>
                 </a>
             </div>
-
-            <div class="col-md-4">
-                <a href="career-detail.php" class="text-black text-decoration wow animate__ animate__fadeInUp animated">
-                    <div class="career-box">
-                        <div class="d-flex space-between">
-                            <h3 class="cinzel fs22">Senior developer</h3>
-                            <img src="https://unideskpartners.com/public/frontend/images/arrow-right.svg" width="36"
-                                height="36">
-                        </div>
-                        <p class="location">Mumbai</p>
-                    </div>
-                </a>
-            </div>
-
-            <div class="col-md-4">
-                <a href="career-detail.php" class="text-black text-decoration wow animate__ animate__fadeInUp animated">
-                    <div class="career-box">
-                        <div class="d-flex space-between">
-                            <h3 class="cinzel fs22">Content Strategist</h3>
-                            <img src="https://unideskpartners.com/public/frontend/images/arrow-right.svg" width="36"
-                                height="36">
-                        </div>
-                        <p class="location">Mumbai</p>
-                    </div>
-                </a>
-            </div>
-
         </div>
     </div>
 </section>

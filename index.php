@@ -44,7 +44,7 @@
                         </div>
 
                         <div class="col-md-6">
-                            <img src="images/slider2.png" class="hola-img" alt="Hola Banner Image">
+                            <img src="images/banner2.png" class="hola-img" alt="Hola Banner Image">
                         </div>
                     </div>
                 </div>

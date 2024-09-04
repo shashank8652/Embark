@@ -12,7 +12,7 @@
 
             <div class="col-md-6">
                 <div class="bg-vector"></div>
-                <img src="images/our-approch-banner.png" class="hola-img"
+                <img src="images/our-process.png" class="Our Process"
                     alt="Building Your Global Team: Our Simplified Process">
             </div>
         </div>
