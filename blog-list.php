@@ -3,7 +3,7 @@
 
 <section class="pd-100">
     <div class="container">
-        <div class="row dflex align-center mb30">
+        <div class="row dflex align-center mb30 wow animate__animated animate__fadeInUp">
             <div class="col-md-6">
                 <img src="images/blog1.png" class="w100 border-radius20" alt="Conditional Employment Letters">
             </div>
@@ -20,7 +20,7 @@
 
 
 
-        <div class="row dflex align-center mb30">
+        <div class="row dflex align-center mb30 wow animate__animated animate__fadeInUp">
             <div class="col-md-6">
                 <img src="images/blog2.png" class="w100 border-radius20" alt="Conditional Employment Letters">
             </div>
@@ -38,7 +38,7 @@
         </div>
 
 
-        <div class="row dflex align-center mb30">
+        <div class="row dflex align-center mb30 wow animate__animated animate__fadeInUp">
             <div class="col-md-6">
                 <img src="images/blog3.png" class="w100 border-radius20" alt="Conditional Employment Letters">
             </div>

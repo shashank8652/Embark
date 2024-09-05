@@ -2,10 +2,10 @@
 
 <section class="relative pd-100">
     <div class="container">
-         <h2 class="fs40 uppercaes text-center mb70">Explore global jobs</h2>
+         <h2 class="fs40 uppercaes text-center mb70 wow animate__animated animate__fadeInUp">Explore global jobs</h2>
         
          <div class="row gx-5">
-            <div class="col-md-4 mb-5">
+            <div class="col-md-4 mb-5 wow animate__animated animate__fadeInUp">
                 <div class="global-jobs bg-white border-radius20">
                     <img src="images/hospitality.png" class="w100 mb15 border-radius20"/>
 
@@ -27,7 +27,7 @@
             </div>
 
 
-            <div class="col-md-4 mb-5">
+            <div class="col-md-4 mb-5 wow animate__animated animate__fadeInUp">
                 <div class="global-jobs bg-white border-radius20">
                     <img src="images/food-processing.png" class="w100 mb15 border-radius20"/>
 
@@ -49,7 +49,7 @@
             </div>
 
 
-            <div class="col-md-4 mb-5">
+            <div class="col-md-4 mb-5 wow animate__animated animate__fadeInUp">
                 <div class="global-jobs bg-white border-radius20">
                     <img src="images/nursing.png" class="w100 mb15 border-radius20"/>
 
@@ -70,7 +70,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4 wow animate__animated animate__fadeInUp">
                 <div class="global-jobs bg-white border-radius20">
                     <img src="images/auto-tech.png" class="w100 mb15 border-radius20"/>
 
@@ -91,7 +91,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4 wow animate__animated animate__fadeInUp">
                 <div class="global-jobs bg-white border-radius20">
                     <img src="images/agriculture.png" class="w100 mb15 border-radius20"/>
 
@@ -112,7 +112,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4 wow animate__animated animate__fadeInUp">
                 <div class="global-jobs bg-white border-radius20">
                     <img src="images/construction.png" class="w100 mb15 border-radius20"/>
 

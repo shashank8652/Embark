@@ -127,7 +127,7 @@
         <div class="last-footer d-flex space-between pb15 d-block">
             <p class="mb12">© 2024.All logos and trademarks are properties of their respective owners.</p>
 
-            <p>Terms & Conditions | Privacy Policy</p>
+            <p style="margin-bottom:0;padding-bottom:10px;">Terms & Conditions | Privacy Policy</p>
         </div>
     </div>
 </footer>

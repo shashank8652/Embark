@@ -36,10 +36,10 @@
 
 <section class="brand-bg relative text-white pd70">
     <div class="container">
-        <h2 class="fs45 uppercaes text-center mb70"> Find your dream job</h2>
+        <h2 class="fs45 uppercaes text-center mb70 wow animate__animated animate__fadeInUp"> Find your dream job</h2>
 
         <div class="row career-pd align-items">
-            <div class="col-md-4">
+            <div class="col-md-4 wow animate__animated animate__fadeInUp">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc6q1aq2SgsxkxfQKbJWdqqNMS4txw4-ZcNG0856TBN054-A/viewform" class="text-black text-decoration wow animate__ animate__fadeInUp animated" target="_blank">
                     <div class="career-box">
                         <div class="d-flex space-between">
@@ -53,7 +53,7 @@
                 </a>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4 wow animate__animated animate__fadeInUp">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScrFKhT1qXBFm8sJFH9hAqK-966jBpFRNj69r6Uw4ySj3DrwA/viewform" class="text-black text-decoration wow animate__ animate__fadeInUp animated" target="_blank">
                     <div class="career-box">
                         <div class="d-flex space-between">
@@ -68,7 +68,7 @@
                 </a>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4 wow animate__animated animate__fadeInUp">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAwzdbTMpHXlD53WVxBz2wYRVopgcR96TQzcIoTKx9_mWeYw/viewform" class="text-black text-decoration wow animate__ animate__fadeInUp animated" target="_blank">
                     <div class="career-box">
                         <div class="d-flex space-between">
@@ -89,10 +89,10 @@
 <section class="relative pd70">
     <div class="container">
         <div class="w-700">
-            <h2 class="fs45 uppercaes text-center mb70 wow animate__ animate__fadeInUp animated">Send us your
+            <h2 class="fs45 uppercaes text-center mb70 wow animate__animated animate__fadeInUp">Send us your
                 details, and we'll be in touch.</h2>
                 
-                <form>
+                <form class="wow animate__animated animate__fadeInUp">
                     <div class="row">
                         <div class="form-group col-md-6 mb-4">
                             <input type="text" class="form-control" placeholder="Full Name*">

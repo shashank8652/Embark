@@ -12,7 +12,7 @@
 
             <div class="col-md-6">
                 <div class="bg-vector"></div>
-                <img src="images/our-process.png" class="Our Process"
+                <img src="images/our-process.png" class="Our-Process"
                     alt="Building Your Global Team: Our Simplified Process">
             </div>
         </div>
@@ -25,10 +25,10 @@
         <div class="row align-center">
             <div class="col-md-6">
                 <div class="bg-vector-left"></div>
-                <img src="images/initial-consultant.png" class="w80 mb30" alt="Initial Consultation & Needs Assessment">
+                <img src="images/initial-consultant.png" class="w80 mb30 wow animate__animated animate__fadeInLeft" alt="Initial Consultation & Needs Assessment">
             </div>
             <div class="col-md-6">
-                <div class="">
+                <div class="wow animate__animated animate__fadeInRight">
                     <h2 class="fs45 uppercaes mb30 line-height58">Initial Consultation & Needs Assessment</h2>
                     <ul class="">
                         <li class="comfortaa fw500 line-height fs20 mb20">We start by understanding your specific needs,
@@ -48,7 +48,7 @@
     <div class="container">
         <div class="row align-center">
             <div class="col-md-6">
-                <div class="">
+                <div class="wow animate__animated animate__fadeInLeft">
                     <h2 class="fs45 uppercaes mb30 line-height58">Candidate Profile Development & <br />Targeted Search
                     </h2>
                     <ul class="">
@@ -63,7 +63,7 @@
 
             <div class="col-md-6">
                 <div class="candidate-profile-vector"></div>
-                <img src="images/candidate-profile.png" class="w80" alt="Our Mission">
+                <img src="images/candidate-profile.png" class="w80 wow animate__animated animate__fadeInRight" alt="Our Mission">
             </div>
         </div>
     </div>
@@ -77,10 +77,10 @@
     <div class="container">
         <div class="row align-center">
             <div class="col-md-6">
-                <img src="images/language-training.png" class="hola-img mb30" alt="Language Training & Certification">
+                <img src="images/language-training.png" class="hola-img mb30 wow animate__animated animate__fadeInLeft" alt="Language Training & Certification">
             </div>
             <div class="col-md-6">
-                <div class="">
+                <div class="wow animate__animated animate__fadeInRight">
                     <h2 class="fs45 uppercaes mb30 line-height58">Language Training & Certification</h2>
                     <ul class="">
                         <li class="comfortaa fw500 line-height fs20 mb20">We offer comprehensive training programs in
@@ -101,7 +101,7 @@
 <section class="relative pd70">
     <div class="container">
         <div class="row align-center">
-            <div class="col-md-6">
+            <div class="col-md-6 wow animate__animated animate__fadeInLeft">
                 <h2 class="fs45 uppercaes mb30 line-height58">Visa Application & <br />Travel Arrangements</h2>
                 <ul class="">
                     <li class="comfortaa fw500 line-height fs20 mb20">Our dedicated team handles the complexities of
@@ -113,7 +113,7 @@
 
             <div class="col-md-6">
                 <div class="practice-vector"></div>
-                <img src="images/visa-application.png" class="hola-img" alt="Ethical Recruitment Practices">
+                <img src="images/visa-application.png" class="hola-img wow animate__animated animate__fadeInRight" alt="Ethical Recruitment Practices">
             </div>
         </div>
     </div>
@@ -127,10 +127,9 @@
     <div class="container">
         <div class="row align-center">
             <div class="col-md-6">
-
-                <img src="images/post-arrival.png" class="w100 mb30" alt="Our Values">
+                <img src="images/post-arrival.png" class="w100 mb30 wow animate__animated animate__fadeInLeft" alt="Our Values">
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 wow animate__animated animate__fadeInRight">
                 <h2 class="fs45 uppercaes mb30 line-height58">Post-Arrival Support & Integration Assistance</h2>
                 <ul class="">
                     <li class="comfortaa fw500 line-height fs20 mb20">We offer ongoing support to ensure a smooth

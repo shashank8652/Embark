@@ -4,8 +4,8 @@
     <div class="container">
         <div class="row align-center">
             <div class="col-md-7">
-                <h3 class="fs32 fw500 line-height58 poppins mb30">Contact Us</h3>
-                <form id="contactForm">
+                <h3 class="fs32 fw500 line-height58 poppins mb30 wow animate__animated animate__fadeInUp">Contact Us</h3>
+                <form id="contactForm" class="wow animate__animated animate__fadeInUp">
                     <div class="row">
                         <div class="form-group col-md-12 mb-4">
                             <input type="text" name="fullname" class="form-control" placeholder="Full Name">

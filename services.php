@@ -23,10 +23,10 @@
 
 <section class="brand-bg pd-100">
   <div class="container">
-    <h1 class="text-center text-white uppercaes poppins fs40 mb70">Foreign Language Training</h1>
+    <h1 class="text-center text-white uppercaes poppins fs40 mb70 wow animate__animated animate__fadeInUp">Foreign Language Training</h1>
     <div class="row">
           <div class="col-md-6">
-            <div class="bg-white pd border-radius20 box-shadow mb25 height530">
+            <div class="bg-white pd border-radius20 box-shadow mb25 height530 wow animate__animated animate__fadeInUp">
               <figure>
                 <img src="images/tailord-program.png" width="100%" class="border-radius20" alt="Tailored Programs" />
               </figure>
@@ -39,7 +39,7 @@
 
 
           <div class="col-md-6">
-             <div class="bg-white pd border-radius20 box-shadow mb25 height530">
+             <div class="bg-white pd border-radius20 box-shadow mb25 height530 wow animate__animated animate__fadeInUp">
               <figure>
                 <img src="images/experienced-instructors.png" width="100%" class="border-radius20"/>
                </figure>
@@ -51,7 +51,7 @@
 
           
           <div class="col-md-6">
-             <div class="bg-white pd border-radius20 box-shadow mb25 height530">
+             <div class="bg-white pd border-radius20 box-shadow mb25 height530 wow animate__animated animate__fadeInUp">
               <figure>
                 <img src="images/focus-on-industry.png" width="100%" alt="Focus on Industry-Specific Vocabulary" class="border-radius20"/>
                </figure>
@@ -63,7 +63,7 @@
 
           
           <div class="col-md-6">
-             <div class="bg-white pd border-radius20 box-shadow mb25 height530">
+             <div class="bg-white pd border-radius20 box-shadow mb25 height530 wow animate__animated animate__fadeInUp">
               <figure>
                 <img src="images/internationally-recognized-certifications.png" width="100%" class="border-radius20" alt="Internationally Recognized Certifications"/>
                </figure>
@@ -84,13 +84,13 @@
     <h1 class="text-center uppercaes poppins fs40 mb70">Skilled Workforce Recruitment</h1>
          <div class="row dflex align-center mb70">
             <div class="col-md-6">
-                <figure>
+                <figure class="wow animate__animated animate__fadeInLeft">
                     <img src="images/targeted-search.png" class="w100 border-radius20" alt="Skilled Workforce Recruitment">
                 </figure>
             </div>
 
             <div class="col-md-6">
-                <div class="services-content ml40">
+                <div class="services-content ml40 wow animate__animated animate__fadeInRight">
                 <h3 class="fs24 fw500 line-height42 poppins mb20">Targeted Search & Sourcing</h3>
                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">We leverage our extensive global network and proven recruitment strategies to identify and source qualified candidates who
                      align perfectly with your specific job requirements and cultural needs.</p>
@@ -101,7 +101,7 @@
 
          <div class="row dflex align-center mb70">
             <div class="col-md-6">
-                <div class="services-content ml40">
+                <div class="services-content ml40 wow animate__animated animate__fadeInLeft">
                 <h3 class="fs24 fw500 line-height42 poppins mb20">Rigorous Screening Process</h3>
                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">Each candidate undergoes a comprehensive screening process, including skills assessments, language proficiency testing,
                      and reference checks, ensuring you receive only the most qualified and suitable individuals.</p>
@@ -109,7 +109,7 @@
             </div>
 
             <div class="col-md-6">
-                <figure>
+                <figure class="wow animate__animated animate__fadeInRight">
                     <img src="images/rigorous-searching.png" class="w100 border-radius20" alt="Rigorous Screening Process">
                 </figure>
             </div>
@@ -118,13 +118,13 @@
 
          <div class="row dflex align-center">
             <div class="col-md-6">
-                <figure>
+                <figure class="wow animate__animated animate__fadeInLeft">
                     <img src="images/cultural-understanding.png" class="w100 border-radius20" alt="Cultural Understandin">
                 </figure>
             </div>
 
             <div class="col-md-6">
-                <div class="services-content ml40">
+                <div class="services-content ml40 wow animate__animated animate__fadeInRight">
                 <h3 class="fs24 fw500 line-height42 poppins mb20">Cultural Understanding</h3>
                  <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20">We prioritize cultural awareness and understanding throughout the process, selecting candidates who demonstrate an interest 
                     in adapting to your company culture and contributing effectively to your diverse team.</p>
@@ -137,10 +137,10 @@
 
 <section class="brand-bg pd-100">
   <div class="container">
-    <h1 class="text-center text-white uppercaes poppins fs40 mb70">Visa Travel Assistance</h1>
+    <h1 class="text-center text-white uppercaes poppins fs40 mb70 wow animate__animated animate__fadeInUp">Visa Travel Assistance</h1>
     <div class="row">
           <div class="col-md-4">
-            <div class="bg-white pd border-radius20 box-shadow height330">
+            <div class="bg-white pd border-radius20 box-shadow height330 wow animate__animated animate__fadeInUp">
               <figure>
                 <img src="images/streamline-icon.png" class="w60"/>
               </figure>
@@ -153,7 +153,7 @@
 
 
           <div class="col-md-4">
-          <div class="bg-white pd border-radius20 box-shadow height330">
+          <div class="bg-white pd border-radius20 box-shadow height330 wow animate__animated animate__fadeInUp">
               <figure>
                 <img src="images/liasion-icon.png" class="w60"/>
               </figure>
@@ -165,7 +165,7 @@
 
 
           <div class="col-md-4">
-            <div class="bg-white pd border-radius20 box-shadow height330">
+            <div class="bg-white pd border-radius20 box-shadow height330 wow animate__animated animate__fadeInUp">
               <figure>
                 <img src="images/pre-departure-assitance-icon.png" class="w60"/>
               </figure>

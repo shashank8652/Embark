@@ -10,8 +10,7 @@
         <div class="row align-center">
             <div class="col-md-7">
                 <div class="up-down">
-                    <h1 class="poppins uppercaes fs">Unlocking Your Competitive<br /> Advantage with Embarkk Consulting
-                    </h1>
+                    <h1 class="poppins uppercaes fs">Unlocking Your Competitive<br /> Advantage with Embarkk Consulting</h1>
                 </div>
             </div>
 
@@ -27,17 +26,17 @@
 
 <section class="brand-bg pd-100">
     <div class="container">
-        <h1 class="text-center uppercaes poppins fs40 mb70 text-white">Unique Value Proposition (UVP)</h1>
+        <h1 class="text-center uppercaes poppins fs40 mb70 text-white wow animate__animated animate__fadeInUp">Unique Value Proposition (UVP)</h1>
         <div class="row dflex align-center mb70">
             <div class="col-md-6">
-                <figure>
+                <figure class="wow animate__animated animate__fadeInLeft">
                     <img src="images/conditional-employment-letters.png" class="w100 border-radius20"
                         alt="Conditional Employment Letters">
                 </figure>
             </div>
 
             <div class="col-md-6">
-                <div class="services-content ml40">
+                <div class="services-content ml40 wow animate__animated animate__fadeInRight">
                     <h3 class="fs24 fw500 line-height42 poppins mb20 text-white">Conditional Employment Letters</h3>
                     <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20 text-white">We stand out by
                         offering conditional
@@ -50,7 +49,7 @@
 
 
         <div class="row dflex align-center mb70">
-            <div class="col-md-6">
+            <div class="col-md-6 wow animate__animated animate__fadeInLeft">
                 <figure class="ml40 mobile">
                     <img src="images/reduced-cost-and-increased-efficiency.png" class="w100 border-radius20"
                         alt="Reduced Cost & Increased Efficiency">
@@ -66,7 +65,7 @@
             </div>
 
             <div class="col-md-6">
-                <figure class="ml40 desktop">
+                <figure class="ml40 desktop wow animate__animated animate__fadeInRight">
                     <img src="images/reduced-cost-and-increased-efficiency.png" class="w100 border-radius20"
                         alt="Reduced Cost & Increased Efficiency">
                 </figure>
@@ -76,14 +75,14 @@
 
         <div class="row dflex align-center">
             <div class="col-md-6">
-                <figure>
+                <figure class="wow animate__animated animate__fadeInLeft">
                     <img src="images/diverse-and-qualified-talent-pool.png" class="w100 border-radius20"
                         alt="Cultural Understandin">
                 </figure>
             </div>
 
             <div class="col-md-6">
-                <div class="services-content ml40">
+                <div class="services-content ml40 wow animate__animated animate__fadeInRight">
                     <h3 class="fs24 fw500 line-height42 poppins mb20 text-white">Diverse & Qualified Talent Pool</h3>
                     <p class="margin-bottom-0 comfortaa fw500 line-height33 fs20 text-white">We provide access to a
                         wider pool of talented individuals
@@ -100,10 +99,10 @@
 
 <section class="pd-100">
     <div class="container">
-        <h1 class="text-center uppercaes poppins fs40 mb70">Our Approach</h1>
+        <h1 class="text-center uppercaes poppins fs40 mb70 wow animate__animated animate__fadeInUp">Our Approach</h1>
         <div class="row">
             <div class="col-md-4">
-                <div class="bg-white pd18 border-radius20 box-shadow height330 mb30">
+                <div class="bg-white pd18 border-radius20 box-shadow height330 mb30 wow animate__animated animate__fadeInUp">
                     <figure>
                         <img src="images/handshake-icon.png" class="w60" />
                     </figure>
@@ -118,7 +117,7 @@
 
 
             <div class="col-md-4">
-                <div class="bg-white pd18 border-radius20 box-shadow height330 mb30">
+                <div class="bg-white pd18 border-radius20 box-shadow height330 mb30 wow animate__animated animate__fadeInUp">
                     <figure>
                         <img src="images/data-driven-decision-making-icon.png" class="w60" />
                     </figure>
@@ -132,7 +131,7 @@
 
 
             <div class="col-md-4">
-                <div class="bg-white pd18 border-radius20 box-shadow height330 mb30">
+                <div class="bg-white pd18 border-radius20 box-shadow height330 mb30 wow animate__animated animate__fadeInUp">
                     <figure>
                         <img src="images/users.png" class="w60" />
                     </figure>

@@ -3,11 +3,11 @@
 
 <section class="relative pd-100">
     <div class="container">
-        <h2 class="fs40 uppercaes text-center mb70">Recognitions</h2>
+        <h2 class="fs40 uppercaes text-center mb70 wow animate__animated animate__fadeInUp">Recognitions</h2>
 
         <div class="row gx-5 d-flex align-center">
             <div class="col-md-8">
-                <div class="">
+                <div class="wow animate__animated animate__fadeInLeft">
                     <h2 class="fs28 uppercaes mb30">Certificate of Incorporation </h2>
                     <p class="fs18 comfortaa mb30 line-height33">The Certificate of Incorporation is a fundamental legal
                         document issued
@@ -23,7 +23,7 @@
             </div>
 
             <div class="col-md-4">
-                <img src="images/certificate-of-incorporation.png" class="w100" alt="Our Mission">
+                <img src="images/certificate-of-incorporation.png" class="w100 wow animate__animated animate__fadeInRight" alt="Our Mission">
             </div>
         </div>
     </div>
@@ -33,12 +33,12 @@
     <div class="container">
         <div class="row gx-5 d-flex align-center">
             <div class="col-md-4">
-                <img src="images/dipp.png" class="w100" alt="DIPP Registration under Startup India">
+                <img src="images/dipp.png" class="w100 wow animate__animated animate__fadeInLeft mbm" alt="DIPP Registration under Startup India">
             </div>
 
 
             <div class="col-md-8">
-                <div class="text-white">
+                <div class="text-white wow animate__animated animate__fadeInRight">
                     <h2 class="fs28 uppercaes mb30">DIPP Registration under Startup India </h2>
                     <p class="fs18 comfortaa mb30 line-height33">The Department for Promotion of Industry and Internal
                         Trade (DPIIT)
@@ -64,7 +64,7 @@
     <div class="container">
         <div class="row gx-5 d-flex align-center msme">
             <div class="col-md-8">
-                <div class="">
+                <div class="wow animate__animated animate__fadeInLeft">
                     <h2 class="fs28 uppercaes mb30">MSME Registration under UDYAM </h2>
                     <p class="fs18 comfortaa mb30 line-height33">The MSME registration under the
                         UDYAM initiative is a pivotal achievement for Unitips Consulting (OPC) Pvt. Ltd. Facilitated by
@@ -79,7 +79,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4 wow animate__animated animate__fadeInRight">
                 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
@@ -117,12 +117,12 @@
 
         <div class="row gx-5 d-flex align-center">
             <div class="col-md-4">
-                <img src="images/iso.png" class="w100" alt="ISO 9001:2015 Quality Management System Certification">
+                <img src="images/iso.png" class="w100 wow animate__animated animate__fadeInLeft mbm" alt="ISO 9001:2015 Quality Management System Certification">
             </div>
 
 
             <div class="col-md-8">
-                <div class="text-white">
+                <div class="text-white wow animate__animated animate__fadeInRight">
                     <h2 class="fs28 uppercaes mb30">ISO 9001:2015 Quality Management System Certification </h2>
                     <p class="fs18 comfortaa mb30 line-height33">The ISO 9001:2015 certification from the Quality
                         Research Organization is a
@@ -154,7 +154,7 @@
 
         <div class="row gx-5 d-flex align-center">
             <div class="col-md-8">
-                <div class="">
+                <div class="wow animate__animated animate__fadeInLeft">
                     <h2 class="fs28 uppercaes mb30">GST Certification</h2>
                     <p class="fs18 comfortaa mb30 line-height33">Unitips Consulting (OPC) Pvt. Ltd. is proud to possess
                         a valid Goods and Services Tax (GST) certificate, attesting to our compliance with the GST
@@ -168,7 +168,7 @@
             </div>
 
             <div class="col-md-4">
-                <img src="images/gst.png" class="w100" alt="Our Mission">
+                <img src="images/gst.png" class="w100 wow animate__animated animate__fadeInRight" alt="Our Mission">
             </div>
         </div>
     </div>

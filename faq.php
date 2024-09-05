@@ -6,8 +6,8 @@
 
 <section class="bsb-accordion-6 py-3 py-md-5 py-xl-8 w-900">
   <div class="container">
-  <h2 class="fs45 mb30 line-height58 mb70">Frequently Asked Questions</h2>
-    <div class="row">
+  <h2 class="fs45 mb30 line-height58 mb70 wow animate__animated animate__fadeInUp">Frequently Asked Questions</h2>
+    <div class="row wow animate__animated animate__fadeInUp">
       <div class="col-12">
         <div class="accordion" id="accordionExample">
           <div class="accordion-item">

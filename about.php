@@ -11,7 +11,7 @@
                         <span class="brand-color"> Global Teams</span>
                     </h1>
                 </div> -->
-                <h1 class="fs90 text-center lnheight">ABOUT <br /><span class="brand-color fs230">US</span> </h1>
+                <h1 class="fs90 text-center lnheight mbm">ABOUT <br /><span class="brand-color fs230">US</span> </h1>
             </div>
 
             <div class="col-md-6">

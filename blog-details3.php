@@ -2,15 +2,15 @@
 
 <section class="bsb-accordion-6 py-3 py-md-5 py-xl-8 w-900">
     <div class="container">
-        <h2 class="fs45 mb30 line-height58 mb40">Navigating the Challenges of Indian Skilled Workers Abroad:
+        <h2 class="fs45 mb30 line-height58 mb40 wow animate__animated animate__fadeInUp">Navigating the Challenges of Indian Skilled Workers Abroad:
             Cultural Integration, Recognition of Qualifications, and Visa Regulations</h2>
 
-        <figure>
+        <figure class="wow animate__animated animate__fadeInUp">
             <img src="images/blog3.png" class="w100 border-radius20" alt="Bridging the Gap: How Indian Industrial Workers with Foreign
      Languages are Powering European Growth">
         </figure>
 
-
+        <div class="wow animate__animated animate__fadeInUp">
         <p class="fs18 mb15 comfortaa">Indian skilled workers have been increasingly sought after globally, with many
             countries recognizing
             the value of their expertise and qualifications. However, this increased demand has also led to
@@ -119,7 +119,7 @@
                 qualifications, and visa regulations. However, by understanding these challenges and learning how
                 to navigate them, Indian skilled workers can successfully adapt to their new environments and thrive
                 in their careers.</p>
-
+</div>
     </div>
 </section>
 

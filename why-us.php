@@ -22,7 +22,7 @@
                 <!-- <div class="up-down">
                   <h1 class="poppins uppercaes fs">Why Choose Embarkk Consulting</h1>
                 </div> -->
-                <h1 class="fs90 text-center lnheight">WHY <br /><span class="brand-color fs230">US</span> </h1>
+                <h1 class="fs90 text-center lnheight mbm">WHY <br /><span class="brand-color fs230">US</span> </h1>
             </div>
 
             <div class="col-md-6">
@@ -37,9 +37,9 @@
 
 <section class="brand-bg pd-100">
   <div class="container">
-    <h1 class="text-center text-white uppercaes poppins fs40 mb70">Expert Language Training</h1>
+    <h1 class="text-center text-white uppercaes poppins fs40 mb70 wow animate__animated animate__fadeInUp">Expert Language Training</h1>
     <div class="row">
-          <div class="col-md-6">
+          <div class="col-md-6 wow animate__animated animate__fadeInUp">
             <div class="bg-white pd border-radius20 box-shadow mb25 height530">
               <figure>
                 <img src="images/qualified-instuructors.png" width="100%" class="border-radius20" alt="Qualified Instructors" />
@@ -52,7 +52,7 @@
 
 
 
-          <div class="col-md-6">
+          <div class="col-md-6 wow animate__animated animate__fadeInUp">
              <div class="bg-white pd border-radius20 box-shadow mb25 height530">
               <figure>
                 <img src="images/tailord-curriculum.png" width="100%" class="border-radius20"/>
@@ -64,7 +64,7 @@
           </div>
 
           
-          <div class="col-md-6">
+          <div class="col-md-6 wow animate__animated animate__fadeInUp">
              <div class="bg-white pd border-radius20 box-shadow mb25 height530">
               <figure>
                 <img src="images/focus-on-fluency.png" width="100%" class="border-radius20" alt="Focus on Fluency & Confidence"/>
@@ -76,7 +76,7 @@
           </div>
 
           
-          <div class="col-md-6">
+          <div class="col-md-6 wow animate__animated animate__fadeInUp">
              <div class="bg-white pd border-radius20 box-shadow mb25 height530">
               <figure>
                 <img src="images/internatinally-recognized.png" width="100%" class="border-radius20" alt="Internationally Recognized Certifications"/>
@@ -98,13 +98,13 @@
 
 <section class="relative pd70">
     <div class="container">
-    <h2 class="fs45 uppercaes text-center mb70">Comprehensive Support</h2>
+    <h2 class="fs45 uppercaes text-center mb70 wow animate__animated animate__fadeInUp">Comprehensive Support</h2>
     <div class="row align-center">
     <div class="col-md-6">
     <div class="bg-vector-comprehensive"></div>
-    <img src="images/why-us-support.png" class="w80 mb30" alt="Our Values">
+    <img src="images/why-us-support.png" class="w80 mb30 wow animate__animated animate__fadeInLeft" alt="Our Values">
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6 wow animate__animated animate__fadeInRight">
              <div class="d-flex mb30">
               <img src="images/end-to-end-guidance-icon.png" class="icon" alt="End-to-End Guidance"/>
               <div class="process-content">
@@ -140,10 +140,10 @@
 
 <section class="brand-bg pd-100">
   <div class="container">
-    <h1 class="text-center uppercaes poppins text-white fs40 mb70">Expert Language Training</h1>
+    <h1 class="text-center uppercaes poppins text-white fs40 mb70 wow animate__animated animate__fadeInUp">Expert Language Training</h1>
     <div class="row">
           <div class="col-md-4">
-            <div class="bg-white pd border-radius20 box-shadow height530">
+            <div class="bg-white pd border-radius20 box-shadow height530 wow animate__animated animate__fadeInUp">
               <figure>
                 <img src="images/experince-visa-team.png" width="100%" class="border-radius20"/>
               </figure>
@@ -156,7 +156,7 @@
 
 
           <div class="col-md-4">
-            <div class="bg-white pd border-radius20 box-shadow height530">
+            <div class="bg-white pd border-radius20 box-shadow height530 wow animate__animated animate__fadeInUp">
             <figure>
                 <img src="images/stay-up-to-date-on-regulations.png" width="100%" class="border-radius20"/>
               </figure>
@@ -168,7 +168,7 @@
 
 
           <div class="col-md-4">
-            <div class="bg-white pd border-radius20 box-shadow height530">
+            <div class="bg-white pd border-radius20 box-shadow height530 wow animate__animated animate__fadeInUp">
             <figure>
                 <img src="images/streamline.png" width="100%" class="border-radius20"/>
               </figure>
@@ -183,7 +183,7 @@
 
 <section class="relative pd70">
     <div class="container">
-      <div class="why-us-qoute text-center w100 comfortaa line-height">
+      <div class="why-us-qoute text-center w100 comfortaa line-height wow animate__animated animate__fadeInUp">
         <p class="fs24"> Embarkk Consulting takes the complexity out of international<br /> 
           recruitment and language training, allowing you to focus on <br /> building a successful and diverse workforce</p>
       </div>
